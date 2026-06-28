@@ -160,47 +160,7 @@ preferences, ratings, genres, and viewing behavior.
 
     st.divider()
 
-    # ===================== Project Summary =====================
 
-    st.header("📌 Project Summary")
-
-    c1, c2 = st.columns(2)
-
-    with c1:
-
-        st.info(f"""
-📂 Dataset Records : {total_records}
-
-🎬 Total Movies : {total_movies}
-
-🎭 Movie Genres : {total_genres}
-
-⭐ Average Rating : {avg_rating}
-""")
-
-    with c2:
-
-        st.success("""
-✔ AI Based Prediction
-
-✔ Random Forest Classifier
-
-✔ User Preference Analysis
-
-✔ Movie Like Prediction
-
-✔ Machine Learning Project
-""")
-
-    st.divider()
-
-    st.header("🎯 Project Objective")
-
-    st.write("""
-The objective of MovieMatrix Pro is to predict whether a user will like a
-movie based on user preferences, movie genre, ratings, viewing behavior,
-and other movie-related attributes using Machine Learning techniques.
-""")
 
 elif selected == "Dataset":
 
