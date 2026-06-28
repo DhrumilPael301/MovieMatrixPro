@@ -160,25 +160,25 @@ preferences, ratings, genres, and viewing behavior.
 
     st.divider()
 
-st.divider()
+    st.divider()
 
-st.header("🔄 How It Works")
+    st.header("🔄 How It Works")
 
-st.info("""
-1️⃣ User Enters Movie Details
+    st.info("""
+    1️⃣ User Enters Movie Details
 
-⬇
+    ⬇
 
-2️⃣ Random Forest Model Processes Input
+    2️⃣ Random Forest Model Processes Input
 
-⬇
+    ⬇
 
-3️⃣ Model Predicts Like / Dislike
+    3️⃣ Model Predicts Like / Dislike
 
-⬇
+    ⬇
 
-4️⃣ System Displays Recommendation
-""")
+    4️⃣ System Displays Recommendation
+    """)
 
 
 
