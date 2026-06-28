@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide",
    st.title("MovieMatrix Pro BY Auctus Tech")
     st.write("""MovieMatrix Pro is an AI-powered movie recommendation system developedusing Machine Learning and Streamlit.""")
-    page_icon="mulidher sweets logo.png"
+    page_icon="Red Black Typography Nine Brand Logo (2).png"
 )
 
 st.markdown(
