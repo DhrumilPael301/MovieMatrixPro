@@ -10,7 +10,8 @@ from sklearn.model_selection import train_test_split
 # set page Configuration
 st.set_page_config(
     layout="wide",
-    page_title="Movie Prediction",
+   st.title("MovieMatrix Pro BY Auctus Tech")
+    st.write("""MovieMatrix Pro is an AI-powered movie recommendation system developedusing Machine Learning and Streamlit.""")
     page_icon="mulidher sweets logo.png"
 )
 
