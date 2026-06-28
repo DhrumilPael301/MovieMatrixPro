@@ -476,7 +476,7 @@ Reasons for selecting Random Forest:
     st.divider()
 
 
-doc_file = "MovieMatrix_Documentation.docx"
+doc_file = "MovieMatrix Documentation.docx"
 
 with open(doc_file, "rb") as file:
     st.download_button(
