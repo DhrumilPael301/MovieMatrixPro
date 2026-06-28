@@ -8,13 +8,22 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
 # set page Configuration
+# Set Page Configuration
+
 st.set_page_config(
     layout="wide",
-st.title("MovieMatrix Pro BY Auctus Tech")
-st.write("""MovieMatrix Pro is an AI-powered movie recommendation system developedusing Machine Learning and Streamlit.""")
+    page_title="MovieMatrix Pro BY Auctus Tech",
     page_icon="Red Black Typography Nine Brand Logo (2).png"
 )
 
+# Home Title
+
+st.title("🎬 MovieMatrix Pro BY Auctus Tech")
+
+st.write("""
+MovieMatrix Pro is an AI-powered movie recommendation system
+developed using Machine Learning and Streamlit.
+""")
 st.markdown(
     """
    <meta name="google-site-verification" content="Eq6sy1djzBtxlno7d79V0bOey9O_7bSSu4idQTGD4SU" />
