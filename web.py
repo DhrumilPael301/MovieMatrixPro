@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 
 st.set_page_config(layout="wide",
                    page_title="Movie Prediction",
-                   page_icon="")
+                   page_icon="mulidher sweets logo.png")
 
 # read dataset
 
