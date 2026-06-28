@@ -1,0 +1,1001 @@
+User_ID,Movie_Title,Movie_Genre,Release_Year,Movie_Duration_Min,User_Age,User_Gender,Preferred_Genre,Time_Of_Day,User_Rating,Watched_Duration_Pct,Liked
+USR0001,Primal Fear,Thriller,1996,129,53,Female,Horror,Evening,3.2,61.7,0
+USR0002,Inception,Sci-Fi,2010,148,72,Male,Comedy,Evening,3.1,56.6,0
+USR0003,Avengers: Endgame,Action,2019,181,38,Female,Romance,Afternoon,3.1,47.7,0
+USR0004,The Ring,Horror,2002,115,16,Male,Romance,Morning,3.6,34.9,0
+USR0005,Step Brothers,Comedy,2008,98,58,Male,Comedy,Evening,3.7,74.3,1
+USR0006,The Hangover,Comedy,2009,100,74,Male,Thriller,Afternoon,2.7,46.5,0
+USR0007,Tenet,Sci-Fi,2020,150,69,Non-Binary,Action,Evening,3.2,56.3,0
+USR0008,Interstellar,Sci-Fi,2014,169,23,Male,Drama,Morning,2.7,37.6,0
+USR0009,The Ring,Horror,2002,115,34,Male,Drama,Evening,3.6,57.7,0
+USR0010,Top Gun: Maverick,Action,2022,130,49,Female,Drama,Afternoon,2.4,46.9,0
+USR0011,The Conjuring,Horror,2013,112,20,Male,Drama,Afternoon,2.4,25.6,0
+USR0012,The Ring,Horror,2002,115,50,Female,Horror,Night,4.4,100.0,1
+USR0013,Before Sunrise,Romance,1995,101,54,Female,Romance,Afternoon,5.0,100.0,1
+USR0014,Mad Max: Fury Road,Action,2015,120,39,Male,Drama,Morning,3.2,44.1,0
+USR0015,Knives Out,Thriller,2019,130,15,Male,Action,Night,2.2,25.0,0
+USR0016,Forrest Gump,Drama,1994,142,25,Male,Comedy,Evening,2.6,35.9,0
+USR0017,Gladiator,Action,2000,155,21,Female,Drama,Afternoon,3.3,41.8,0
+USR0018,Avengers: Endgame,Action,2019,181,38,Female,Drama,Night,3.2,31.2,0
+USR0019,Mad Max: Fury Road,Action,2015,120,49,Male,Thriller,Evening,3.2,63.4,0
+USR0020,The Martian,Sci-Fi,2015,144,28,Female,Action,Evening,2.8,41.4,0
+USR0021,Tenet,Sci-Fi,2020,150,27,Male,Horror,Morning,3.0,25.1,0
+USR0022,Pride & Prejudice,Romance,2005,129,44,Male,Horror,Morning,2.3,36.4,0
+USR0023,Shutter Island,Thriller,2010,138,27,Male,Comedy,Evening,3.3,61.1,0
+USR0024,Avengers: Endgame,Action,2019,181,20,Male,Drama,Night,3.9,56.4,1
+USR0025,Parasite,Thriller,2019,132,72,Male,Action,Evening,2.9,48.1,0
+USR0026,Blade Runner 2049,Sci-Fi,2017,164,41,Male,Drama,Morning,1.7,29.0,0
+USR0027,Insidious,Horror,2010,103,51,Female,Sci-Fi,Night,2.7,35.4,0
+USR0028,Zodiac,Thriller,2007,157,46,Female,Action,Night,3.1,45.8,0
+USR0029,A Quiet Place,Horror,2018,90,66,Male,Horror,Afternoon,2.6,63.6,0
+USR0030,Before Sunrise,Romance,1995,101,70,Male,Action,Afternoon,3.1,46.5,0
+USR0031,Good Will Hunting,Drama,1997,126,51,Male,Action,Evening,3.8,76.7,1
+USR0032,Tenet,Sci-Fi,2020,150,40,Non-Binary,Horror,Night,2.9,36.6,0
+USR0033,Titanic,Romance,1997,194,31,Female,Romance,Night,4.5,89.7,1
+USR0034,Knives Out,Thriller,2019,130,62,Female,Action,Night,4.0,60.8,1
+USR0035,Step Brothers,Comedy,2008,98,17,Female,Comedy,Night,4.0,76.3,1
+USR0036,The Dark Knight,Action,2008,152,33,Male,Horror,Night,3.3,55.7,0
+USR0037,A Nightmare on Elm Street,Horror,1984,91,53,Female,Action,Evening,2.6,35.8,0
+USR0038,Dune,Sci-Fi,2021,155,37,Female,Sci-Fi,Evening,3.7,70.3,1
+USR0039,A Quiet Place,Horror,2018,90,62,Female,Drama,Morning,1.8,24.9,0
+USR0040,Forrest Gump,Drama,1994,142,26,Female,Comedy,Evening,2.4,22.8,0
+USR0041,Booksmart,Comedy,2019,102,62,Female,Drama,Night,3.5,50.2,0
+USR0042,Step Brothers,Comedy,2008,98,66,Male,Drama,Afternoon,3.4,68.9,0
+USR0043,The Matrix,Sci-Fi,1999,136,62,Male,Comedy,Morning,3.9,63.2,1
+USR0044,The Martian,Sci-Fi,2015,144,30,Non-Binary,Drama,Morning,3.0,41.2,0
+USR0045,A Nightmare on Elm Street,Horror,1984,91,62,Female,Horror,Evening,3.4,90.0,0
+USR0046,Booksmart,Comedy,2019,102,26,Female,Thriller,Evening,3.3,34.5,0
+USR0047,Top Gun: Maverick,Action,2022,130,52,Male,Thriller,Night,3.6,59.4,0
+USR0048,Mad Max: Fury Road,Action,2015,120,44,Female,Horror,Night,2.8,47.0,0
+USR0049,Whiplash,Drama,2014,106,62,Male,Comedy,Night,3.1,51.3,0
+USR0050,Top Gun: Maverick,Action,2022,130,42,Male,Thriller,Morning,3.2,53.1,0
+USR0051,Pulp Fiction,Drama,1994,154,51,Female,Action,Afternoon,3.4,58.8,0
+USR0052,Pulp Fiction,Drama,1994,154,35,Male,Action,Night,1.8,24.3,0
+USR0053,Shutter Island,Thriller,2010,138,56,Female,Sci-Fi,Evening,2.6,40.5,0
+USR0054,Superbad,Comedy,2007,113,46,Female,Horror,Afternoon,2.6,28.7,0
+USR0055,Gladiator,Action,2000,155,40,Female,Action,Morning,3.5,86.3,0
+USR0056,Hereditary,Horror,2018,127,43,Male,Sci-Fi,Evening,3.3,35.1,0
+USR0057,La La Land,Romance,2016,128,74,Female,Action,Night,4.2,74.4,1
+USR0058,Before Sunrise,Romance,1995,101,60,Female,Drama,Evening,3.3,34.5,0
+USR0059,Inception,Sci-Fi,2010,148,16,Male,Horror,Afternoon,2.5,32.9,0
+USR0060,Whiplash,Drama,2014,106,75,Female,Sci-Fi,Afternoon,3.8,38.2,0
+USR0061,Mad Max: Fury Road,Action,2015,120,51,Female,Romance,Night,3.3,36.8,0
+USR0062,Parasite,Thriller,2019,132,18,Female,Drama,Afternoon,4.1,67.8,1
+USR0063,Anchorman,Comedy,2004,94,66,Male,Sci-Fi,Night,2.3,14.6,0
+USR0064,Primal Fear,Thriller,1996,129,72,Male,Romance,Afternoon,2.6,55.6,0
+USR0065,Seven,Thriller,1995,127,72,Female,Horror,Afternoon,2.8,40.0,0
+USR0066,The Shawshank Redemption,Drama,1994,142,39,Female,Romance,Morning,4.1,71.8,1
+USR0067,Gone Girl,Thriller,2014,149,69,Male,Sci-Fi,Night,2.7,37.9,0
+USR0068,Blade Runner 2049,Sci-Fi,2017,164,61,Male,Thriller,Afternoon,2.9,62.2,0
+USR0069,Insidious,Horror,2010,103,40,Female,Romance,Evening,2.8,21.1,0
+USR0070,Die Hard,Action,1988,132,51,Male,Sci-Fi,Afternoon,2.8,43.3,0
+USR0071,Gladiator,Action,2000,155,45,Male,Comedy,Afternoon,4.6,69.8,1
+USR0072,Get Out,Horror,2017,104,59,Male,Horror,Afternoon,3.0,61.1,0
+USR0073,Tenet,Sci-Fi,2020,150,41,Female,Drama,Afternoon,2.5,39.5,0
+USR0074,Anchorman,Comedy,2004,94,75,Female,Romance,Night,3.2,46.9,0
+USR0075,Mad Max: Fury Road,Action,2015,120,24,Male,Romance,Morning,3.1,33.8,0
+USR0076,Tenet,Sci-Fi,2020,150,75,Male,Comedy,Evening,2.9,38.6,0
+USR0077,Top Gun: Maverick,Action,2022,130,40,Female,Thriller,Afternoon,3.0,27.8,0
+USR0078,Whiplash,Drama,2014,106,72,Female,Romance,Evening,3.8,62.8,1
+USR0079,Step Brothers,Comedy,2008,98,35,Non-Binary,Drama,Afternoon,3.8,38.3,0
+USR0080,La La Land,Romance,2016,128,49,Non-Binary,Drama,Afternoon,3.2,32.7,0
+USR0081,Primal Fear,Thriller,1996,129,37,Female,Romance,Night,3.8,52.6,0
+USR0082,The Shawshank Redemption,Drama,1994,142,39,Male,Thriller,Morning,2.8,74.5,0
+USR0083,Dune,Sci-Fi,2021,155,39,Male,Comedy,Evening,3.2,46.7,0
+USR0084,The Shawshank Redemption,Drama,1994,142,66,Female,Horror,Night,2.7,36.0,0
+USR0085,Pulp Fiction,Drama,1994,154,39,Female,Romance,Night,3.9,62.5,1
+USR0086,The Martian,Sci-Fi,2015,144,61,Male,Sci-Fi,Afternoon,3.6,76.4,0
+USR0087,Get Out,Horror,2017,104,21,Male,Sci-Fi,Morning,3.8,65.7,1
+USR0088,Step Brothers,Comedy,2008,98,19,Female,Thriller,Evening,3.5,54.9,0
+USR0089,A Quiet Place,Horror,2018,90,36,Female,Horror,Evening,3.6,71.9,0
+USR0090,The Conjuring,Horror,2013,112,75,Male,Horror,Evening,2.6,47.3,0
+USR0091,Zodiac,Thriller,2007,157,17,Male,Sci-Fi,Night,3.8,61.7,1
+USR0092,Die Hard,Action,1988,132,22,Male,Action,Evening,4.7,100.0,1
+USR0093,Shutter Island,Thriller,2010,138,71,Male,Action,Morning,2.8,46.6,0
+USR0094,Primal Fear,Thriller,1996,129,20,Female,Romance,Night,2.1,37.5,0
+USR0095,Dune,Sci-Fi,2021,155,30,Female,Comedy,Night,3.0,37.3,0
+USR0096,Before Sunrise,Romance,1995,101,34,Male,Horror,Morning,2.6,29.3,0
+USR0097,Hereditary,Horror,2018,127,15,Female,Thriller,Evening,3.4,60.8,0
+USR0098,The Hangover,Comedy,2009,100,42,Male,Sci-Fi,Night,2.4,51.9,0
+USR0099,Dune,Sci-Fi,2021,155,74,Female,Drama,Morning,3.2,66.8,0
+USR0100,La La Land,Romance,2016,128,47,Male,Romance,Night,3.7,71.5,1
+USR0101,Whiplash,Drama,2014,106,49,Female,Sci-Fi,Evening,4.0,74.8,1
+USR0102,Step Brothers,Comedy,2008,98,16,Male,Thriller,Afternoon,2.4,37.9,0
+USR0103,Primal Fear,Thriller,1996,129,70,Male,Action,Afternoon,2.1,45.0,0
+USR0104,A Quiet Place,Horror,2018,90,36,Female,Action,Morning,3.1,41.7,0
+USR0105,Parasite,Thriller,2019,132,19,Non-Binary,Thriller,Evening,4.8,95.1,1
+USR0106,Tenet,Sci-Fi,2020,150,51,Female,Comedy,Morning,2.6,32.5,0
+USR0107,The Conjuring,Horror,2013,112,15,Female,Romance,Night,3.9,47.3,0
+USR0108,The Grand Budapest Hotel,Comedy,2014,99,46,Male,Horror,Night,3.0,40.7,0
+USR0109,John Wick,Action,2014,101,68,Female,Comedy,Afternoon,3.1,58.0,0
+USR0110,Tenet,Sci-Fi,2020,150,19,Male,Comedy,Morning,2.7,65.9,0
+USR0111,Gladiator,Action,2000,155,37,Female,Romance,Afternoon,2.5,44.4,0
+USR0112,The Grand Budapest Hotel,Comedy,2014,99,52,Female,Sci-Fi,Afternoon,3.8,69.7,1
+USR0113,The Godfather,Drama,1972,175,29,Male,Horror,Afternoon,3.1,24.8,0
+USR0114,Step Brothers,Comedy,2008,98,38,Female,Thriller,Evening,4.0,62.3,1
+USR0115,Die Hard,Action,1988,132,43,Male,Action,Afternoon,4.1,76.7,1
+USR0116,The Martian,Sci-Fi,2015,144,16,Male,Comedy,Evening,2.9,42.7,0
+USR0117,Gone Girl,Thriller,2014,149,71,Male,Horror,Evening,3.2,38.6,0
+USR0118,Insidious,Horror,2010,103,54,Female,Action,Evening,3.0,55.7,0
+USR0119,The Grand Budapest Hotel,Comedy,2014,99,46,Male,Sci-Fi,Evening,2.6,33.4,0
+USR0120,The Martian,Sci-Fi,2015,144,35,Female,Romance,Morning,3.4,48.1,0
+USR0121,Zodiac,Thriller,2007,157,63,Female,Romance,Evening,2.7,42.6,0
+USR0122,Crazy Rich Asians,Romance,2018,120,44,Male,Romance,Morning,4.4,79.8,1
+USR0123,The Godfather,Drama,1972,175,63,Female,Drama,Evening,5.0,95.7,1
+USR0124,Zodiac,Thriller,2007,157,28,Female,Horror,Afternoon,3.8,54.5,0
+USR0125,La La Land,Romance,2016,128,28,Male,Comedy,Evening,3.4,55.7,0
+USR0126,The Matrix,Sci-Fi,1999,136,57,Female,Romance,Afternoon,3.8,32.4,0
+USR0127,Superbad,Comedy,2007,113,29,Male,Horror,Morning,3.1,33.6,0
+USR0128,Interstellar,Sci-Fi,2014,169,31,Male,Sci-Fi,Afternoon,4.8,100.0,1
+USR0129,The Hangover,Comedy,2009,100,17,Female,Sci-Fi,Evening,3.8,62.6,1
+USR0130,The Ring,Horror,2002,115,61,Female,Action,Night,1.8,20.3,0
+USR0131,Parasite,Thriller,2019,132,20,Female,Sci-Fi,Evening,2.3,40.1,0
+USR0132,Before Sunrise,Romance,1995,101,36,Male,Thriller,Evening,3.6,53.6,0
+USR0133,Superbad,Comedy,2007,113,44,Male,Horror,Morning,3.0,36.7,0
+USR0134,The Ring,Horror,2002,115,54,Female,Horror,Afternoon,4.2,82.2,1
+USR0135,Knives Out,Thriller,2019,130,18,Male,Thriller,Morning,4.9,92.8,1
+USR0136,Forrest Gump,Drama,1994,142,71,Female,Comedy,Night,4.2,62.1,1
+USR0137,Knives Out,Thriller,2019,130,19,Male,Thriller,Night,4.1,54.1,0
+USR0138,The Godfather,Drama,1972,175,63,Female,Action,Afternoon,3.5,53.9,0
+USR0139,The Shawshank Redemption,Drama,1994,142,25,Female,Romance,Evening,2.1,43.9,0
+USR0140,Tenet,Sci-Fi,2020,150,70,Male,Horror,Afternoon,2.7,48.1,0
+USR0141,Interstellar,Sci-Fi,2014,169,51,Male,Action,Evening,4.2,57.0,1
+USR0142,Pride & Prejudice,Romance,2005,129,49,Male,Action,Morning,3.2,42.0,0
+USR0143,Crazy Rich Asians,Romance,2018,120,23,Male,Comedy,Evening,3.1,50.0,0
+USR0144,Mad Max: Fury Road,Action,2015,120,74,Female,Comedy,Morning,3.4,57.4,0
+USR0145,A Nightmare on Elm Street,Horror,1984,91,49,Male,Romance,Evening,3.1,67.3,0
+USR0146,John Wick,Action,2014,101,18,Male,Sci-Fi,Morning,3.1,65.6,0
+USR0147,Inception,Sci-Fi,2010,148,54,Male,Comedy,Morning,3.5,44.1,0
+USR0148,The Matrix,Sci-Fi,1999,136,29,Female,Action,Morning,3.3,26.1,0
+USR0149,Primal Fear,Thriller,1996,129,67,Female,Comedy,Evening,2.3,45.9,0
+USR0150,Dune,Sci-Fi,2021,155,66,Female,Romance,Morning,3.5,53.3,0
+USR0151,The Conjuring,Horror,2013,112,50,Non-Binary,Action,Morning,3.5,59.7,0
+USR0152,Forrest Gump,Drama,1994,142,47,Male,Thriller,Afternoon,3.8,60.3,1
+USR0153,Shutter Island,Thriller,2010,138,47,Male,Romance,Evening,2.6,17.0,0
+USR0154,Die Hard,Action,1988,132,66,Male,Romance,Night,2.8,36.5,0
+USR0155,Whiplash,Drama,2014,106,26,Female,Comedy,Evening,3.7,75.5,1
+USR0156,Whiplash,Drama,2014,106,40,Male,Romance,Night,2.1,46.5,0
+USR0157,Shutter Island,Thriller,2010,138,61,Male,Comedy,Night,2.9,39.1,0
+USR0158,La La Land,Romance,2016,128,54,Female,Drama,Night,4.8,77.9,1
+USR0159,About Time,Romance,2013,123,70,Male,Horror,Afternoon,3.1,59.5,0
+USR0160,Superbad,Comedy,2007,113,23,Male,Romance,Afternoon,2.5,36.2,0
+USR0161,Parasite,Thriller,2019,132,35,Male,Drama,Afternoon,2.8,51.5,0
+USR0162,The Dark Knight,Action,2008,152,68,Female,Horror,Morning,3.7,48.6,0
+USR0163,The Conjuring,Horror,2013,112,24,Female,Romance,Afternoon,3.0,28.5,0
+USR0164,Hereditary,Horror,2018,127,39,Female,Thriller,Afternoon,2.2,10.0,0
+USR0165,Inception,Sci-Fi,2010,148,41,Male,Comedy,Evening,2.4,34.5,0
+USR0166,The Conjuring,Horror,2013,112,38,Female,Drama,Afternoon,2.6,48.1,0
+USR0167,Before Sunrise,Romance,1995,101,40,Male,Romance,Morning,3.9,67.4,1
+USR0168,A Nightmare on Elm Street,Horror,1984,91,42,Female,Action,Evening,2.7,42.0,0
+USR0169,Step Brothers,Comedy,2008,98,37,Male,Comedy,Afternoon,3.7,70.0,1
+USR0170,Zodiac,Thriller,2007,157,59,Male,Comedy,Afternoon,3.5,42.5,0
+USR0171,Booksmart,Comedy,2019,102,64,Female,Drama,Morning,3.6,33.3,0
+USR0172,Inception,Sci-Fi,2010,148,18,Male,Romance,Evening,2.9,48.8,0
+USR0173,Anchorman,Comedy,2004,94,24,Female,Sci-Fi,Night,3.6,32.3,0
+USR0174,Forrest Gump,Drama,1994,142,17,Male,Comedy,Evening,2.7,45.4,0
+USR0175,Dune,Sci-Fi,2021,155,47,Female,Sci-Fi,Evening,4.4,76.6,1
+USR0176,La La Land,Romance,2016,128,70,Female,Drama,Night,3.4,57.2,0
+USR0177,The Dark Knight,Action,2008,152,45,Male,Sci-Fi,Evening,3.7,63.2,1
+USR0178,Hereditary,Horror,2018,127,35,Male,Romance,Evening,2.2,50.6,0
+USR0179,Hereditary,Horror,2018,127,16,Female,Romance,Night,4.0,54.9,0
+USR0180,Superbad,Comedy,2007,113,17,Female,Drama,Night,2.4,53.5,0
+USR0181,Pride & Prejudice,Romance,2005,129,44,Male,Romance,Night,3.8,79.6,1
+USR0182,A Nightmare on Elm Street,Horror,1984,91,44,Female,Thriller,Evening,2.8,55.5,0
+USR0183,Arrival,Sci-Fi,2016,116,65,Female,Action,Night,2.6,55.2,0
+USR0184,Pride & Prejudice,Romance,2005,129,23,Male,Comedy,Afternoon,3.0,48.5,0
+USR0185,Top Gun: Maverick,Action,2022,130,59,Female,Romance,Evening,3.1,59.6,0
+USR0186,Primal Fear,Thriller,1996,129,56,Female,Thriller,Afternoon,5.0,100.0,1
+USR0187,Zombieland,Comedy,2009,88,72,Female,Romance,Afternoon,2.8,35.5,0
+USR0188,Primal Fear,Thriller,1996,129,45,Female,Sci-Fi,Night,3.0,68.0,0
+USR0189,Pride & Prejudice,Romance,2005,129,24,Female,Sci-Fi,Morning,3.7,31.8,0
+USR0190,Shutter Island,Thriller,2010,138,16,Male,Comedy,Morning,3.1,38.9,0
+USR0191,Blade Runner 2049,Sci-Fi,2017,164,40,Male,Comedy,Night,3.4,49.8,0
+USR0192,The Matrix,Sci-Fi,1999,136,73,Male,Comedy,Afternoon,4.0,57.0,1
+USR0193,The Shawshank Redemption,Drama,1994,142,68,Male,Action,Afternoon,3.3,50.7,0
+USR0194,A Nightmare on Elm Street,Horror,1984,91,73,Female,Sci-Fi,Morning,1.8,29.4,0
+USR0195,Dune,Sci-Fi,2021,155,23,Male,Action,Morning,3.4,67.0,0
+USR0196,Before Sunrise,Romance,1995,101,39,Male,Comedy,Afternoon,3.3,59.2,0
+USR0197,About Time,Romance,2013,123,44,Male,Drama,Evening,3.5,46.6,0
+USR0198,The Dark Knight,Action,2008,152,63,Male,Sci-Fi,Morning,2.3,32.2,0
+USR0199,Shutter Island,Thriller,2010,138,30,Female,Horror,Morning,3.4,60.3,0
+USR0200,The Grand Budapest Hotel,Comedy,2014,99,30,Female,Action,Afternoon,2.2,32.4,0
+USR0201,Crazy Rich Asians,Romance,2018,120,40,Male,Sci-Fi,Evening,3.1,41.2,0
+USR0202,Avengers: Endgame,Action,2019,181,31,Male,Romance,Afternoon,2.9,54.0,0
+USR0203,Inception,Sci-Fi,2010,148,62,Male,Comedy,Evening,3.3,57.4,0
+USR0204,The Shawshank Redemption,Drama,1994,142,66,Female,Sci-Fi,Evening,2.9,48.5,0
+USR0205,Zombieland,Comedy,2009,88,74,Female,Comedy,Morning,2.7,73.5,0
+USR0206,The Hangover,Comedy,2009,100,37,Male,Horror,Night,3.7,57.5,1
+USR0207,John Wick,Action,2014,101,39,Female,Action,Night,4.5,85.5,1
+USR0208,The Hangover,Comedy,2009,100,16,Male,Sci-Fi,Afternoon,3.4,51.5,0
+USR0209,Gone Girl,Thriller,2014,149,49,Male,Thriller,Night,4.0,74.4,1
+USR0210,Mad Max: Fury Road,Action,2015,120,30,Female,Horror,Morning,3.2,62.5,0
+USR0211,Mad Max: Fury Road,Action,2015,120,53,Female,Action,Afternoon,4.0,78.7,1
+USR0212,Hereditary,Horror,2018,127,70,Male,Drama,Afternoon,1.0,10.0,0
+USR0213,Crazy Rich Asians,Romance,2018,120,38,Male,Comedy,Afternoon,2.7,48.5,0
+USR0214,Die Hard,Action,1988,132,74,Male,Horror,Afternoon,3.4,53.1,0
+USR0215,A Nightmare on Elm Street,Horror,1984,91,48,Male,Drama,Night,3.6,70.2,0
+USR0216,Before Sunrise,Romance,1995,101,59,Male,Comedy,Afternoon,3.2,47.0,0
+USR0217,Interstellar,Sci-Fi,2014,169,72,Female,Thriller,Morning,3.7,49.8,0
+USR0218,Interstellar,Sci-Fi,2014,169,31,Male,Comedy,Afternoon,3.7,62.3,1
+USR0219,Get Out,Horror,2017,104,39,Female,Thriller,Morning,2.7,36.6,0
+USR0220,The Notebook,Romance,2004,123,23,Male,Sci-Fi,Night,3.0,43.1,0
+USR0221,Parasite,Thriller,2019,132,39,Female,Comedy,Afternoon,2.1,18.9,0
+USR0222,Dune,Sci-Fi,2021,155,22,Female,Sci-Fi,Afternoon,3.7,77.7,1
+USR0223,Superbad,Comedy,2007,113,31,Male,Romance,Night,3.5,52.9,0
+USR0224,About Time,Romance,2013,123,17,Male,Sci-Fi,Night,2.2,37.6,0
+USR0225,Shutter Island,Thriller,2010,138,20,Female,Drama,Morning,2.9,40.8,0
+USR0226,Forrest Gump,Drama,1994,142,27,Female,Action,Morning,3.5,67.8,0
+USR0227,The Martian,Sci-Fi,2015,144,52,Male,Romance,Evening,3.0,50.6,0
+USR0228,Before Sunrise,Romance,1995,101,45,Female,Sci-Fi,Night,4.1,53.3,0
+USR0229,A Nightmare on Elm Street,Horror,1984,91,45,Male,Sci-Fi,Afternoon,2.6,47.6,0
+USR0230,Hereditary,Horror,2018,127,16,Male,Thriller,Evening,3.5,53.4,0
+USR0231,A Quiet Place,Horror,2018,90,45,Male,Romance,Evening,2.8,35.3,0
+USR0232,Blade Runner 2049,Sci-Fi,2017,164,21,Female,Sci-Fi,Evening,3.4,67.0,0
+USR0233,Insidious,Horror,2010,103,51,Male,Drama,Night,2.8,43.9,0
+USR0234,Zombieland,Comedy,2009,88,41,Male,Drama,Afternoon,2.9,62.0,0
+USR0235,The Godfather,Drama,1972,175,36,Female,Comedy,Afternoon,3.2,42.7,0
+USR0236,Get Out,Horror,2017,104,21,Male,Action,Afternoon,4.1,56.9,1
+USR0237,Zodiac,Thriller,2007,157,25,Female,Sci-Fi,Afternoon,2.3,12.5,0
+USR0238,The Shawshank Redemption,Drama,1994,142,53,Female,Romance,Morning,4.0,55.1,1
+USR0239,Titanic,Romance,1997,194,61,Female,Thriller,Evening,3.8,45.5,0
+USR0240,About Time,Romance,2013,123,35,Female,Romance,Evening,3.6,68.3,0
+USR0241,Titanic,Romance,1997,194,72,Female,Horror,Afternoon,3.3,63.9,0
+USR0242,Inception,Sci-Fi,2010,148,29,Male,Comedy,Night,2.8,37.2,0
+USR0243,The Hangover,Comedy,2009,100,43,Female,Horror,Evening,3.2,54.1,0
+USR0244,Tenet,Sci-Fi,2020,150,17,Female,Drama,Morning,2.9,30.1,0
+USR0245,Die Hard,Action,1988,132,44,Male,Action,Afternoon,3.7,93.5,1
+USR0246,Booksmart,Comedy,2019,102,52,Male,Drama,Evening,2.3,46.0,0
+USR0247,Avengers: Endgame,Action,2019,181,16,Female,Comedy,Night,3.3,49.2,0
+USR0248,Knives Out,Thriller,2019,130,32,Female,Sci-Fi,Afternoon,3.6,61.4,0
+USR0249,Parasite,Thriller,2019,132,74,Female,Comedy,Afternoon,2.7,44.9,0
+USR0250,Tenet,Sci-Fi,2020,150,26,Non-Binary,Horror,Night,2.3,33.6,0
+USR0251,Knives Out,Thriller,2019,130,47,Female,Sci-Fi,Night,3.0,37.2,0
+USR0252,Tenet,Sci-Fi,2020,150,55,Male,Action,Morning,2.9,36.2,0
+USR0253,The Dark Knight,Action,2008,152,16,Non-Binary,Sci-Fi,Afternoon,3.9,64.0,1
+USR0254,Die Hard,Action,1988,132,56,Male,Action,Night,4.7,99.7,1
+USR0255,Insidious,Horror,2010,103,20,Female,Action,Evening,2.7,49.1,0
+USR0256,Primal Fear,Thriller,1996,129,26,Female,Sci-Fi,Night,2.7,51.4,0
+USR0257,John Wick,Action,2014,101,73,Female,Comedy,Night,4.1,73.2,1
+USR0258,Tenet,Sci-Fi,2020,150,36,Male,Comedy,Evening,3.9,60.5,1
+USR0259,Die Hard,Action,1988,132,25,Female,Drama,Evening,3.3,71.1,0
+USR0260,Gladiator,Action,2000,155,65,Male,Horror,Afternoon,2.5,32.2,0
+USR0261,Booksmart,Comedy,2019,102,69,Male,Comedy,Night,4.9,97.9,1
+USR0262,Die Hard,Action,1988,132,36,Male,Action,Evening,3.4,76.6,0
+USR0263,Pride & Prejudice,Romance,2005,129,49,Male,Thriller,Evening,3.2,43.8,0
+USR0264,The Hangover,Comedy,2009,100,63,Female,Horror,Afternoon,2.8,57.7,0
+USR0265,Step Brothers,Comedy,2008,98,18,Female,Thriller,Night,4.6,72.5,1
+USR0266,Get Out,Horror,2017,104,65,Female,Drama,Afternoon,1.9,46.3,0
+USR0267,Crazy Rich Asians,Romance,2018,120,16,Female,Drama,Afternoon,3.1,32.9,0
+USR0268,The Martian,Sci-Fi,2015,144,17,Female,Romance,Evening,3.4,43.8,0
+USR0269,Before Sunrise,Romance,1995,101,50,Female,Horror,Afternoon,3.7,52.6,0
+USR0270,Interstellar,Sci-Fi,2014,169,59,Male,Thriller,Night,3.8,40.5,0
+USR0271,Hereditary,Horror,2018,127,53,Male,Sci-Fi,Evening,2.8,30.8,0
+USR0272,Gone Girl,Thriller,2014,149,71,Male,Comedy,Morning,3.0,44.1,0
+USR0273,Gone Girl,Thriller,2014,149,26,Male,Romance,Evening,2.2,30.3,0
+USR0274,The Notebook,Romance,2004,123,17,Male,Sci-Fi,Morning,3.5,47.6,0
+USR0275,The Hangover,Comedy,2009,100,15,Male,Comedy,Night,3.6,79.2,0
+USR0276,The Notebook,Romance,2004,123,34,Male,Comedy,Morning,3.3,28.0,0
+USR0277,Good Will Hunting,Drama,1997,126,63,Female,Drama,Night,5.0,97.4,1
+USR0278,Blade Runner 2049,Sci-Fi,2017,164,58,Female,Drama,Afternoon,2.4,42.3,0
+USR0279,Top Gun: Maverick,Action,2022,130,51,Female,Romance,Morning,2.7,40.6,0
+USR0280,Top Gun: Maverick,Action,2022,130,56,Male,Sci-Fi,Night,2.2,38.0,0
+USR0281,Get Out,Horror,2017,104,57,Female,Drama,Afternoon,2.6,28.6,0
+USR0282,Forrest Gump,Drama,1994,142,56,Female,Sci-Fi,Morning,3.7,49.0,0
+USR0283,Pulp Fiction,Drama,1994,154,46,Male,Horror,Afternoon,4.0,47.8,0
+USR0284,Forrest Gump,Drama,1994,142,69,Female,Sci-Fi,Afternoon,4.8,71.4,1
+USR0285,Good Will Hunting,Drama,1997,126,22,Female,Action,Night,3.1,43.9,0
+USR0286,La La Land,Romance,2016,128,18,Female,Comedy,Evening,3.0,61.3,0
+USR0287,Hereditary,Horror,2018,127,19,Female,Thriller,Night,3.7,44.4,0
+USR0288,John Wick,Action,2014,101,23,Female,Action,Night,4.2,85.1,1
+USR0289,The Conjuring,Horror,2013,112,45,Female,Drama,Afternoon,2.2,23.7,0
+USR0290,Zodiac,Thriller,2007,157,52,Male,Sci-Fi,Afternoon,2.8,49.5,0
+USR0291,Zodiac,Thriller,2007,157,59,Female,Thriller,Afternoon,3.3,81.1,0
+USR0292,Top Gun: Maverick,Action,2022,130,15,Male,Horror,Evening,3.0,60.5,0
+USR0293,John Wick,Action,2014,101,39,Female,Action,Evening,4.8,100.0,1
+USR0294,The Godfather,Drama,1972,175,24,Female,Action,Evening,3.3,50.1,0
+USR0295,Hereditary,Horror,2018,127,16,Male,Romance,Morning,2.9,28.2,0
+USR0296,Booksmart,Comedy,2019,102,48,Female,Horror,Night,1.8,21.7,0
+USR0297,Top Gun: Maverick,Action,2022,130,37,Female,Sci-Fi,Night,3.4,53.8,0
+USR0298,The Hangover,Comedy,2009,100,39,Female,Comedy,Evening,4.0,65.9,1
+USR0299,Blade Runner 2049,Sci-Fi,2017,164,33,Male,Romance,Night,2.6,29.2,0
+USR0300,Blade Runner 2049,Sci-Fi,2017,164,41,Female,Drama,Evening,2.6,40.6,0
+USR0301,Before Sunrise,Romance,1995,101,44,Female,Action,Morning,3.0,42.8,0
+USR0302,Titanic,Romance,1997,194,25,Male,Drama,Afternoon,2.7,45.6,0
+USR0303,Interstellar,Sci-Fi,2014,169,70,Female,Romance,Afternoon,2.9,51.5,0
+USR0304,Forrest Gump,Drama,1994,142,68,Female,Action,Night,3.7,51.2,0
+USR0305,Arrival,Sci-Fi,2016,116,73,Male,Thriller,Afternoon,4.3,68.6,1
+USR0306,Step Brothers,Comedy,2008,98,40,Male,Sci-Fi,Night,3.6,51.0,0
+USR0307,La La Land,Romance,2016,128,22,Female,Action,Afternoon,3.1,35.9,0
+USR0308,The Hangover,Comedy,2009,100,38,Female,Drama,Evening,2.7,43.3,0
+USR0309,Die Hard,Action,1988,132,50,Male,Horror,Afternoon,2.8,36.1,0
+USR0310,Titanic,Romance,1997,194,58,Female,Horror,Morning,4.5,83.7,1
+USR0311,Parasite,Thriller,2019,132,46,Female,Action,Afternoon,2.7,42.1,0
+USR0312,Top Gun: Maverick,Action,2022,130,39,Non-Binary,Comedy,Evening,2.6,55.4,0
+USR0313,John Wick,Action,2014,101,68,Male,Action,Morning,4.2,95.0,1
+USR0314,Zodiac,Thriller,2007,157,52,Female,Horror,Morning,2.4,28.9,0
+USR0315,Before Sunrise,Romance,1995,101,55,Female,Romance,Morning,5.0,100.0,1
+USR0316,The Dark Knight,Action,2008,152,58,Male,Romance,Night,3.2,56.3,0
+USR0317,Mad Max: Fury Road,Action,2015,120,68,Male,Sci-Fi,Evening,2.3,21.2,0
+USR0318,A Nightmare on Elm Street,Horror,1984,91,49,Female,Thriller,Night,3.0,38.2,0
+USR0319,The Hangover,Comedy,2009,100,50,Non-Binary,Romance,Evening,2.7,45.7,0
+USR0320,Dune,Sci-Fi,2021,155,56,Male,Action,Evening,2.6,51.4,0
+USR0321,Good Will Hunting,Drama,1997,126,26,Non-Binary,Comedy,Night,2.5,34.7,0
+USR0322,Crazy Rich Asians,Romance,2018,120,65,Male,Romance,Night,4.4,93.8,1
+USR0323,The Notebook,Romance,2004,123,71,Female,Drama,Afternoon,4.3,57.6,1
+USR0324,The Martian,Sci-Fi,2015,144,46,Male,Drama,Afternoon,2.9,39.4,0
+USR0325,The Godfather,Drama,1972,175,59,Male,Romance,Afternoon,3.6,61.1,0
+USR0326,John Wick,Action,2014,101,25,Female,Thriller,Evening,3.6,48.7,0
+USR0327,Dune,Sci-Fi,2021,155,29,Non-Binary,Romance,Night,3.0,44.0,0
+USR0328,Whiplash,Drama,2014,106,49,Female,Sci-Fi,Afternoon,3.2,52.3,0
+USR0329,The Dark Knight,Action,2008,152,21,Male,Action,Evening,3.8,73.5,1
+USR0330,Whiplash,Drama,2014,106,16,Male,Thriller,Night,3.4,52.2,0
+USR0331,Superbad,Comedy,2007,113,16,Male,Thriller,Morning,3.0,53.2,0
+USR0332,La La Land,Romance,2016,128,60,Female,Thriller,Morning,4.0,58.8,1
+USR0333,Anchorman,Comedy,2004,94,20,Male,Romance,Afternoon,3.3,50.0,0
+USR0334,Forrest Gump,Drama,1994,142,46,Female,Horror,Afternoon,3.4,57.3,0
+USR0335,A Quiet Place,Horror,2018,90,20,Male,Comedy,Afternoon,2.7,53.1,0
+USR0336,Hereditary,Horror,2018,127,45,Male,Comedy,Afternoon,2.7,39.9,0
+USR0337,Parasite,Thriller,2019,132,25,Female,Horror,Night,2.7,23.1,0
+USR0338,Get Out,Horror,2017,104,23,Male,Action,Night,3.2,45.0,0
+USR0339,Insidious,Horror,2010,103,30,Female,Action,Night,2.4,42.3,0
+USR0340,Crazy Rich Asians,Romance,2018,120,51,Female,Drama,Morning,4.1,84.4,1
+USR0341,The Matrix,Sci-Fi,1999,136,53,Female,Romance,Night,3.9,47.9,0
+USR0342,Blade Runner 2049,Sci-Fi,2017,164,49,Male,Drama,Afternoon,3.3,57.1,0
+USR0343,Anchorman,Comedy,2004,94,36,Non-Binary,Horror,Afternoon,2.9,33.0,0
+USR0344,The Martian,Sci-Fi,2015,144,52,Male,Sci-Fi,Evening,4.1,70.3,1
+USR0345,John Wick,Action,2014,101,15,Male,Sci-Fi,Afternoon,2.8,47.1,0
+USR0346,Knives Out,Thriller,2019,130,51,Female,Drama,Morning,3.1,36.8,0
+USR0347,The Ring,Horror,2002,115,35,Female,Horror,Morning,3.4,70.6,0
+USR0348,Before Sunrise,Romance,1995,101,66,Male,Sci-Fi,Night,3.6,66.1,0
+USR0349,John Wick,Action,2014,101,43,Male,Romance,Afternoon,2.7,50.9,0
+USR0350,The Ring,Horror,2002,115,15,Female,Romance,Morning,3.5,61.7,0
+USR0351,The Grand Budapest Hotel,Comedy,2014,99,25,Female,Comedy,Afternoon,4.7,100.0,1
+USR0352,John Wick,Action,2014,101,74,Male,Romance,Evening,2.7,39.7,0
+USR0353,John Wick,Action,2014,101,22,Male,Comedy,Morning,3.0,58.0,0
+USR0354,Knives Out,Thriller,2019,130,60,Non-Binary,Drama,Evening,2.5,19.7,0
+USR0355,The Notebook,Romance,2004,123,19,Female,Sci-Fi,Afternoon,3.5,44.0,0
+USR0356,Pride & Prejudice,Romance,2005,129,31,Male,Action,Morning,2.4,31.0,0
+USR0357,About Time,Romance,2013,123,63,Male,Drama,Afternoon,3.9,58.0,1
+USR0358,Dune,Sci-Fi,2021,155,24,Female,Drama,Evening,3.0,47.7,0
+USR0359,John Wick,Action,2014,101,67,Female,Drama,Afternoon,2.8,33.6,0
+USR0360,Pride & Prejudice,Romance,2005,129,54,Female,Action,Morning,4.3,43.2,0
+USR0361,Mad Max: Fury Road,Action,2015,120,72,Female,Thriller,Night,2.8,38.7,0
+USR0362,Arrival,Sci-Fi,2016,116,46,Female,Action,Night,3.4,47.4,0
+USR0363,Die Hard,Action,1988,132,26,Female,Sci-Fi,Morning,3.3,65.6,0
+USR0364,Shutter Island,Thriller,2010,138,22,Female,Thriller,Evening,4.6,81.0,1
+USR0365,Die Hard,Action,1988,132,39,Female,Romance,Morning,3.0,44.1,0
+USR0366,The Conjuring,Horror,2013,112,29,Male,Sci-Fi,Evening,2.9,43.1,0
+USR0367,The Hangover,Comedy,2009,100,58,Female,Comedy,Morning,4.1,100.0,1
+USR0368,The Godfather,Drama,1972,175,68,Female,Romance,Afternoon,3.8,66.0,1
+USR0369,Inception,Sci-Fi,2010,148,51,Male,Sci-Fi,Afternoon,3.9,70.0,1
+USR0370,Gone Girl,Thriller,2014,149,56,Female,Action,Afternoon,3.4,56.8,0
+USR0371,The Hangover,Comedy,2009,100,41,Male,Action,Night,3.1,61.0,0
+USR0372,Knives Out,Thriller,2019,130,36,Female,Sci-Fi,Afternoon,3.4,59.0,0
+USR0373,Shutter Island,Thriller,2010,138,34,Male,Comedy,Evening,3.4,47.3,0
+USR0374,Gladiator,Action,2000,155,51,Male,Horror,Morning,3.6,60.2,0
+USR0375,Seven,Thriller,1995,127,68,Female,Romance,Afternoon,3.8,49.5,0
+USR0376,Mad Max: Fury Road,Action,2015,120,35,Male,Thriller,Night,2.8,30.2,0
+USR0377,Good Will Hunting,Drama,1997,126,31,Female,Drama,Morning,3.7,77.3,1
+USR0378,Get Out,Horror,2017,104,30,Male,Drama,Night,3.0,38.3,0
+USR0379,Knives Out,Thriller,2019,130,44,Female,Horror,Night,3.0,58.1,0
+USR0380,Gone Girl,Thriller,2014,149,60,Male,Romance,Night,3.3,59.1,0
+USR0381,About Time,Romance,2013,123,45,Female,Comedy,Night,3.0,42.0,0
+USR0382,The Grand Budapest Hotel,Comedy,2014,99,63,Male,Sci-Fi,Evening,3.2,34.3,0
+USR0383,Superbad,Comedy,2007,113,73,Female,Action,Night,2.6,33.6,0
+USR0384,The Martian,Sci-Fi,2015,144,20,Female,Horror,Evening,3.4,59.8,0
+USR0385,Get Out,Horror,2017,104,40,Female,Action,Night,2.3,22.8,0
+USR0386,Insidious,Horror,2010,103,27,Female,Thriller,Afternoon,4.3,71.8,1
+USR0387,The Grand Budapest Hotel,Comedy,2014,99,73,Male,Romance,Evening,2.8,26.1,0
+USR0388,The Hangover,Comedy,2009,100,65,Male,Romance,Night,2.9,57.4,0
+USR0389,Superbad,Comedy,2007,113,19,Female,Sci-Fi,Night,3.0,46.5,0
+USR0390,The Godfather,Drama,1972,175,50,Female,Thriller,Afternoon,3.1,49.5,0
+USR0391,Interstellar,Sci-Fi,2014,169,45,Female,Action,Night,2.5,28.0,0
+USR0392,Get Out,Horror,2017,104,28,Male,Thriller,Evening,4.2,60.3,1
+USR0393,Zodiac,Thriller,2007,157,58,Male,Drama,Night,3.1,41.6,0
+USR0394,Zombieland,Comedy,2009,88,57,Male,Drama,Afternoon,2.1,21.2,0
+USR0395,La La Land,Romance,2016,128,29,Male,Comedy,Night,3.6,50.2,0
+USR0396,The Grand Budapest Hotel,Comedy,2014,99,70,Male,Action,Morning,2.4,41.7,0
+USR0397,A Nightmare on Elm Street,Horror,1984,91,38,Male,Comedy,Morning,2.7,56.8,0
+USR0398,Die Hard,Action,1988,132,71,Female,Horror,Morning,2.5,38.1,0
+USR0399,The Dark Knight,Action,2008,152,48,Male,Comedy,Morning,3.1,60.8,0
+USR0400,La La Land,Romance,2016,128,48,Male,Thriller,Afternoon,2.4,35.4,0
+USR0401,Seven,Thriller,1995,127,16,Female,Action,Afternoon,3.8,54.4,0
+USR0402,Gone Girl,Thriller,2014,149,26,Male,Thriller,Night,4.0,79.8,1
+USR0403,Top Gun: Maverick,Action,2022,130,65,Female,Horror,Morning,2.8,32.5,0
+USR0404,Die Hard,Action,1988,132,60,Female,Horror,Night,3.2,39.6,0
+USR0405,Before Sunrise,Romance,1995,101,66,Female,Comedy,Morning,4.1,61.2,1
+USR0406,The Martian,Sci-Fi,2015,144,40,Female,Sci-Fi,Morning,3.9,71.5,1
+USR0407,Pride & Prejudice,Romance,2005,129,58,Female,Drama,Evening,4.0,52.5,0
+USR0408,Superbad,Comedy,2007,113,39,Male,Comedy,Evening,3.3,66.9,0
+USR0409,Interstellar,Sci-Fi,2014,169,26,Female,Drama,Night,2.6,48.3,0
+USR0410,Pulp Fiction,Drama,1994,154,22,Female,Horror,Evening,3.0,53.5,0
+USR0411,Die Hard,Action,1988,132,56,Male,Thriller,Night,3.2,36.8,0
+USR0412,The Hangover,Comedy,2009,100,59,Female,Sci-Fi,Evening,2.7,35.3,0
+USR0413,The Shawshank Redemption,Drama,1994,142,51,Female,Comedy,Morning,4.6,58.3,1
+USR0414,Anchorman,Comedy,2004,94,68,Female,Action,Night,2.6,50.4,0
+USR0415,Dune,Sci-Fi,2021,155,15,Male,Horror,Morning,3.6,68.3,0
+USR0416,Titanic,Romance,1997,194,18,Non-Binary,Sci-Fi,Evening,2.6,42.6,0
+USR0417,Before Sunrise,Romance,1995,101,19,Female,Action,Night,3.8,60.3,1
+USR0418,Insidious,Horror,2010,103,19,Non-Binary,Drama,Morning,3.7,53.1,0
+USR0419,Zombieland,Comedy,2009,88,20,Female,Drama,Morning,3.7,54.3,0
+USR0420,Seven,Thriller,1995,127,58,Male,Sci-Fi,Afternoon,2.8,51.9,0
+USR0421,Zodiac,Thriller,2007,157,40,Male,Drama,Night,3.1,41.9,0
+USR0422,About Time,Romance,2013,123,49,Male,Action,Evening,3.8,53.8,0
+USR0423,The Dark Knight,Action,2008,152,71,Male,Thriller,Morning,2.9,55.8,0
+USR0424,Get Out,Horror,2017,104,29,Male,Action,Night,3.3,52.5,0
+USR0425,Parasite,Thriller,2019,132,49,Female,Drama,Evening,3.1,43.9,0
+USR0426,Zombieland,Comedy,2009,88,74,Non-Binary,Horror,Evening,2.9,37.6,0
+USR0427,Get Out,Horror,2017,104,72,Female,Thriller,Evening,2.5,24.3,0
+USR0428,Top Gun: Maverick,Action,2022,130,28,Female,Action,Evening,4.5,95.0,1
+USR0429,Interstellar,Sci-Fi,2014,169,20,Female,Horror,Evening,2.9,33.8,0
+USR0430,Superbad,Comedy,2007,113,52,Male,Romance,Night,2.9,33.4,0
+USR0431,Inception,Sci-Fi,2010,148,28,Male,Action,Morning,2.8,41.3,0
+USR0432,Top Gun: Maverick,Action,2022,130,52,Male,Action,Evening,4.4,91.0,1
+USR0433,The Ring,Horror,2002,115,59,Non-Binary,Horror,Morning,3.4,65.7,0
+USR0434,Parasite,Thriller,2019,132,74,Female,Drama,Afternoon,2.8,39.2,0
+USR0435,The Matrix,Sci-Fi,1999,136,50,Male,Thriller,Morning,3.0,42.0,0
+USR0436,Step Brothers,Comedy,2008,98,39,Female,Romance,Evening,3.4,42.1,0
+USR0437,Anchorman,Comedy,2004,94,55,Male,Drama,Night,3.2,57.0,0
+USR0438,Shutter Island,Thriller,2010,138,60,Male,Horror,Evening,2.9,41.8,0
+USR0439,The Martian,Sci-Fi,2015,144,63,Male,Drama,Evening,3.4,44.2,0
+USR0440,Insidious,Horror,2010,103,35,Female,Romance,Night,3.2,59.6,0
+USR0441,Booksmart,Comedy,2019,102,47,Female,Action,Morning,2.4,34.9,0
+USR0442,The Martian,Sci-Fi,2015,144,33,Female,Romance,Afternoon,3.8,70.1,1
+USR0443,The Conjuring,Horror,2013,112,34,Female,Comedy,Night,2.6,42.9,0
+USR0444,Primal Fear,Thriller,1996,129,18,Male,Romance,Evening,3.2,49.4,0
+USR0445,Superbad,Comedy,2007,113,48,Male,Action,Morning,2.7,25.0,0
+USR0446,Pride & Prejudice,Romance,2005,129,36,Male,Action,Morning,2.7,40.1,0
+USR0447,Crazy Rich Asians,Romance,2018,120,22,Male,Sci-Fi,Morning,2.3,10.0,0
+USR0448,Superbad,Comedy,2007,113,49,Male,Comedy,Night,3.6,67.3,0
+USR0449,John Wick,Action,2014,101,27,Female,Action,Afternoon,4.2,90.8,1
+USR0450,Mad Max: Fury Road,Action,2015,120,53,Female,Action,Night,3.1,67.7,0
+USR0451,Primal Fear,Thriller,1996,129,55,Male,Romance,Morning,2.6,41.7,0
+USR0452,Forrest Gump,Drama,1994,142,65,Female,Horror,Morning,3.6,48.1,0
+USR0453,Step Brothers,Comedy,2008,98,60,Male,Drama,Evening,3.4,49.2,0
+USR0454,Gladiator,Action,2000,155,67,Male,Romance,Night,3.5,42.7,0
+USR0455,The Dark Knight,Action,2008,152,42,Female,Action,Evening,3.8,82.8,1
+USR0456,Booksmart,Comedy,2019,102,18,Male,Horror,Night,2.6,35.9,0
+USR0457,Interstellar,Sci-Fi,2014,169,42,Female,Action,Morning,2.2,24.0,0
+USR0458,Primal Fear,Thriller,1996,129,55,Female,Horror,Morning,2.5,51.6,0
+USR0459,Superbad,Comedy,2007,113,25,Female,Thriller,Afternoon,2.8,38.8,0
+USR0460,Dune,Sci-Fi,2021,155,20,Male,Sci-Fi,Morning,4.0,72.6,1
+USR0461,The Ring,Horror,2002,115,54,Female,Action,Afternoon,1.8,42.6,0
+USR0462,Titanic,Romance,1997,194,69,Female,Sci-Fi,Morning,4.0,49.7,0
+USR0463,Parasite,Thriller,2019,132,45,Male,Action,Afternoon,3.2,56.5,0
+USR0464,Insidious,Horror,2010,103,32,Male,Romance,Evening,3.6,55.3,0
+USR0465,Forrest Gump,Drama,1994,142,44,Male,Sci-Fi,Night,3.1,49.1,0
+USR0466,Parasite,Thriller,2019,132,29,Female,Horror,Night,2.9,42.8,0
+USR0467,The Dark Knight,Action,2008,152,74,Female,Horror,Afternoon,2.9,31.4,0
+USR0468,Inception,Sci-Fi,2010,148,18,Male,Action,Morning,2.9,47.8,0
+USR0469,Die Hard,Action,1988,132,24,Female,Drama,Evening,3.1,44.4,0
+USR0470,A Quiet Place,Horror,2018,90,25,Male,Thriller,Night,2.7,53.2,0
+USR0471,The Matrix,Sci-Fi,1999,136,66,Female,Thriller,Morning,3.0,49.2,0
+USR0472,Before Sunrise,Romance,1995,101,59,Male,Comedy,Afternoon,3.4,47.3,0
+USR0473,Gladiator,Action,2000,155,56,Male,Thriller,Evening,3.0,33.2,0
+USR0474,The Shawshank Redemption,Drama,1994,142,56,Female,Romance,Morning,3.6,56.3,0
+USR0475,Knives Out,Thriller,2019,130,37,Male,Sci-Fi,Night,2.6,39.9,0
+USR0476,Parasite,Thriller,2019,132,73,Non-Binary,Drama,Morning,2.2,21.7,0
+USR0477,The Matrix,Sci-Fi,1999,136,18,Non-Binary,Action,Morning,2.4,37.2,0
+USR0478,Forrest Gump,Drama,1994,142,67,Female,Comedy,Evening,3.1,37.8,0
+USR0479,Interstellar,Sci-Fi,2014,169,65,Male,Romance,Afternoon,2.4,43.5,0
+USR0480,Gladiator,Action,2000,155,25,Female,Comedy,Morning,2.9,45.9,0
+USR0481,Zombieland,Comedy,2009,88,49,Male,Sci-Fi,Evening,3.3,43.0,0
+USR0482,The Shawshank Redemption,Drama,1994,142,49,Female,Thriller,Morning,3.5,66.9,0
+USR0483,Gladiator,Action,2000,155,53,Male,Drama,Morning,4.3,49.5,0
+USR0484,Pulp Fiction,Drama,1994,154,33,Male,Comedy,Morning,2.2,44.4,0
+USR0485,The Martian,Sci-Fi,2015,144,61,Female,Romance,Afternoon,2.8,44.8,0
+USR0486,The Conjuring,Horror,2013,112,31,Female,Action,Afternoon,3.0,51.5,0
+USR0487,The Hangover,Comedy,2009,100,58,Female,Thriller,Evening,3.0,25.8,0
+USR0488,Get Out,Horror,2017,104,25,Male,Horror,Evening,4.9,95.4,1
+USR0489,Top Gun: Maverick,Action,2022,130,65,Female,Comedy,Morning,3.0,47.9,0
+USR0490,Pulp Fiction,Drama,1994,154,65,Female,Horror,Night,3.5,66.4,0
+USR0491,Parasite,Thriller,2019,132,23,Male,Romance,Morning,2.3,44.1,0
+USR0492,Good Will Hunting,Drama,1997,126,22,Male,Thriller,Evening,3.3,20.1,0
+USR0493,Seven,Thriller,1995,127,60,Male,Horror,Night,4.1,66.1,1
+USR0494,The Ring,Horror,2002,115,35,Male,Sci-Fi,Morning,2.6,32.2,0
+USR0495,The Matrix,Sci-Fi,1999,136,71,Female,Comedy,Evening,2.9,39.9,0
+USR0496,The Hangover,Comedy,2009,100,51,Female,Romance,Morning,3.4,58.5,0
+USR0497,Dune,Sci-Fi,2021,155,23,Female,Drama,Evening,2.6,41.1,0
+USR0498,Arrival,Sci-Fi,2016,116,23,Female,Thriller,Night,3.2,29.4,0
+USR0499,Good Will Hunting,Drama,1997,126,28,Female,Romance,Night,2.1,33.6,0
+USR0500,Avengers: Endgame,Action,2019,181,54,Male,Sci-Fi,Afternoon,2.9,27.3,0
+USR0501,Arrival,Sci-Fi,2016,116,16,Male,Romance,Night,2.5,29.9,0
+USR0502,The Ring,Horror,2002,115,53,Male,Horror,Afternoon,3.8,70.0,1
+USR0503,Booksmart,Comedy,2019,102,68,Male,Romance,Evening,3.3,37.1,0
+USR0504,Good Will Hunting,Drama,1997,126,67,Male,Comedy,Morning,4.3,59.7,1
+USR0505,Get Out,Horror,2017,104,45,Female,Horror,Night,5.0,82.1,1
+USR0506,The Ring,Horror,2002,115,22,Female,Drama,Night,2.2,51.0,0
+USR0507,The Hangover,Comedy,2009,100,60,Female,Horror,Afternoon,2.5,39.2,0
+USR0508,Step Brothers,Comedy,2008,98,73,Female,Sci-Fi,Night,2.1,31.2,0
+USR0509,Dune,Sci-Fi,2021,155,32,Female,Horror,Evening,2.7,25.1,0
+USR0510,A Quiet Place,Horror,2018,90,71,Male,Sci-Fi,Morning,1.8,28.6,0
+USR0511,Top Gun: Maverick,Action,2022,130,64,Male,Thriller,Morning,3.1,36.0,0
+USR0512,Whiplash,Drama,2014,106,48,Male,Drama,Afternoon,4.5,96.9,1
+USR0513,Gladiator,Action,2000,155,63,Male,Drama,Evening,3.1,40.7,0
+USR0514,The Notebook,Romance,2004,123,40,Female,Drama,Evening,3.7,64.5,1
+USR0515,Tenet,Sci-Fi,2020,150,61,Male,Romance,Evening,3.1,47.2,0
+USR0516,Blade Runner 2049,Sci-Fi,2017,164,58,Male,Drama,Evening,4.1,57.4,1
+USR0517,La La Land,Romance,2016,128,51,Male,Romance,Afternoon,4.4,92.0,1
+USR0518,Pulp Fiction,Drama,1994,154,55,Male,Sci-Fi,Night,2.9,29.3,0
+USR0519,Zombieland,Comedy,2009,88,74,Female,Romance,Afternoon,1.9,41.9,0
+USR0520,Tenet,Sci-Fi,2020,150,16,Male,Action,Afternoon,3.5,51.7,0
+USR0521,Tenet,Sci-Fi,2020,150,47,Female,Horror,Morning,3.0,40.7,0
+USR0522,Avengers: Endgame,Action,2019,181,22,Female,Sci-Fi,Evening,3.9,44.8,0
+USR0523,Get Out,Horror,2017,104,35,Female,Thriller,Afternoon,2.6,40.5,0
+USR0524,Blade Runner 2049,Sci-Fi,2017,164,57,Male,Action,Morning,3.0,35.0,0
+USR0525,The Godfather,Drama,1972,175,58,Male,Sci-Fi,Afternoon,3.7,53.7,0
+USR0526,Booksmart,Comedy,2019,102,16,Male,Drama,Afternoon,2.9,17.1,0
+USR0527,Step Brothers,Comedy,2008,98,61,Male,Drama,Afternoon,3.5,43.0,0
+USR0528,Die Hard,Action,1988,132,39,Non-Binary,Drama,Afternoon,2.4,47.1,0
+USR0529,Step Brothers,Comedy,2008,98,42,Male,Action,Night,2.6,40.4,0
+USR0530,Pulp Fiction,Drama,1994,154,61,Female,Sci-Fi,Morning,4.1,54.1,0
+USR0531,Zodiac,Thriller,2007,157,72,Male,Action,Afternoon,3.9,76.9,1
+USR0532,Pride & Prejudice,Romance,2005,129,67,Female,Horror,Night,4.0,62.4,1
+USR0533,The Godfather,Drama,1972,175,39,Male,Romance,Afternoon,3.2,49.5,0
+USR0534,The Conjuring,Horror,2013,112,48,Female,Horror,Night,3.7,75.1,1
+USR0535,Before Sunrise,Romance,1995,101,40,Non-Binary,Horror,Morning,4.1,65.8,1
+USR0536,Booksmart,Comedy,2019,102,25,Non-Binary,Drama,Afternoon,2.4,29.8,0
+USR0537,Avengers: Endgame,Action,2019,181,58,Female,Action,Afternoon,3.8,85.6,1
+USR0538,Inception,Sci-Fi,2010,148,33,Male,Romance,Night,2.4,51.8,0
+USR0539,Superbad,Comedy,2007,113,42,Female,Action,Morning,2.9,47.7,0
+USR0540,Arrival,Sci-Fi,2016,116,68,Male,Horror,Evening,2.8,43.5,0
+USR0541,Knives Out,Thriller,2019,130,63,Female,Drama,Night,2.2,25.8,0
+USR0542,Superbad,Comedy,2007,113,48,Male,Romance,Afternoon,2.7,42.7,0
+USR0543,Gladiator,Action,2000,155,52,Female,Thriller,Afternoon,2.3,36.4,0
+USR0544,Top Gun: Maverick,Action,2022,130,45,Male,Thriller,Afternoon,2.3,31.8,0
+USR0545,Shutter Island,Thriller,2010,138,57,Female,Action,Night,3.0,46.8,0
+USR0546,Forrest Gump,Drama,1994,142,45,Male,Thriller,Morning,3.0,48.3,0
+USR0547,Pulp Fiction,Drama,1994,154,25,Male,Sci-Fi,Evening,2.7,34.8,0
+USR0548,Hereditary,Horror,2018,127,32,Non-Binary,Drama,Night,3.2,48.2,0
+USR0549,The Grand Budapest Hotel,Comedy,2014,99,69,Male,Sci-Fi,Night,2.6,49.5,0
+USR0550,Forrest Gump,Drama,1994,142,44,Female,Horror,Morning,3.1,34.5,0
+USR0551,Shutter Island,Thriller,2010,138,36,Female,Drama,Morning,3.2,53.5,0
+USR0552,Pride & Prejudice,Romance,2005,129,42,Female,Sci-Fi,Evening,2.9,49.5,0
+USR0553,Inception,Sci-Fi,2010,148,74,Male,Horror,Night,2.7,48.1,0
+USR0554,Whiplash,Drama,2014,106,41,Male,Comedy,Night,2.6,42.4,0
+USR0555,Gone Girl,Thriller,2014,149,23,Male,Horror,Evening,3.0,51.2,0
+USR0556,Blade Runner 2049,Sci-Fi,2017,164,39,Female,Action,Evening,3.7,49.5,0
+USR0557,Superbad,Comedy,2007,113,49,Male,Horror,Evening,3.4,36.6,0
+USR0558,Gladiator,Action,2000,155,59,Male,Drama,Morning,3.7,43.1,0
+USR0559,Insidious,Horror,2010,103,64,Female,Sci-Fi,Morning,2.2,39.6,0
+USR0560,Forrest Gump,Drama,1994,142,19,Male,Action,Afternoon,2.8,48.9,0
+USR0561,The Dark Knight,Action,2008,152,43,Male,Comedy,Night,3.3,75.8,0
+USR0562,About Time,Romance,2013,123,40,Female,Romance,Night,4.9,92.0,1
+USR0563,Before Sunrise,Romance,1995,101,40,Female,Romance,Afternoon,4.4,100.0,1
+USR0564,The Conjuring,Horror,2013,112,29,Female,Romance,Morning,3.1,36.2,0
+USR0565,Hereditary,Horror,2018,127,62,Female,Drama,Afternoon,2.0,37.1,0
+USR0566,The Ring,Horror,2002,115,17,Male,Comedy,Night,3.2,60.1,0
+USR0567,The Ring,Horror,2002,115,18,Male,Action,Morning,2.6,42.2,0
+USR0568,Get Out,Horror,2017,104,37,Female,Horror,Afternoon,4.8,100.0,1
+USR0569,Blade Runner 2049,Sci-Fi,2017,164,75,Male,Thriller,Afternoon,2.6,28.8,0
+USR0570,The Shawshank Redemption,Drama,1994,142,75,Male,Comedy,Afternoon,3.9,47.0,0
+USR0571,Forrest Gump,Drama,1994,142,61,Male,Romance,Evening,4.0,62.4,1
+USR0572,Die Hard,Action,1988,132,51,Female,Comedy,Evening,2.8,30.6,0
+USR0573,Get Out,Horror,2017,104,73,Non-Binary,Drama,Evening,2.4,28.5,0
+USR0574,Booksmart,Comedy,2019,102,68,Female,Action,Night,3.0,36.9,0
+USR0575,Seven,Thriller,1995,127,24,Male,Sci-Fi,Evening,2.1,32.8,0
+USR0576,The Grand Budapest Hotel,Comedy,2014,99,46,Male,Action,Morning,2.2,40.9,0
+USR0577,Get Out,Horror,2017,104,39,Male,Romance,Afternoon,3.4,60.6,0
+USR0578,Inception,Sci-Fi,2010,148,65,Male,Action,Evening,3.3,58.4,0
+USR0579,Hereditary,Horror,2018,127,46,Male,Thriller,Morning,2.8,51.4,0
+USR0580,Zombieland,Comedy,2009,88,48,Female,Romance,Morning,2.4,23.8,0
+USR0581,Pride & Prejudice,Romance,2005,129,66,Male,Action,Evening,3.8,68.4,1
+USR0582,Zombieland,Comedy,2009,88,59,Female,Action,Morning,2.5,33.6,0
+USR0583,Get Out,Horror,2017,104,46,Male,Drama,Afternoon,3.1,43.3,0
+USR0584,Good Will Hunting,Drama,1997,126,47,Non-Binary,Romance,Evening,4.0,50.0,0
+USR0585,The Grand Budapest Hotel,Comedy,2014,99,33,Female,Action,Morning,1.8,40.5,0
+USR0586,The Godfather,Drama,1972,175,19,Female,Thriller,Night,3.2,42.7,0
+USR0587,A Quiet Place,Horror,2018,90,49,Female,Comedy,Evening,2.4,25.9,0
+USR0588,Anchorman,Comedy,2004,94,70,Female,Action,Morning,2.9,38.8,0
+USR0589,Parasite,Thriller,2019,132,69,Female,Horror,Evening,2.3,41.3,0
+USR0590,Interstellar,Sci-Fi,2014,169,22,Male,Action,Night,2.5,26.5,0
+USR0591,Blade Runner 2049,Sci-Fi,2017,164,41,Male,Thriller,Morning,3.5,50.6,0
+USR0592,Good Will Hunting,Drama,1997,126,19,Male,Comedy,Morning,2.7,23.4,0
+USR0593,Get Out,Horror,2017,104,33,Female,Comedy,Afternoon,2.7,28.0,0
+USR0594,Whiplash,Drama,2014,106,47,Female,Thriller,Evening,3.0,50.2,0
+USR0595,The Conjuring,Horror,2013,112,33,Female,Romance,Night,3.0,42.3,0
+USR0596,The Ring,Horror,2002,115,24,Male,Thriller,Afternoon,3.4,41.8,0
+USR0597,Arrival,Sci-Fi,2016,116,19,Male,Drama,Morning,3.0,30.6,0
+USR0598,Seven,Thriller,1995,127,21,Male,Sci-Fi,Afternoon,2.1,30.2,0
+USR0599,Gone Girl,Thriller,2014,149,74,Female,Thriller,Afternoon,4.1,70.8,1
+USR0600,Zombieland,Comedy,2009,88,41,Male,Thriller,Night,2.7,37.8,0
+USR0601,The Godfather,Drama,1972,175,58,Male,Comedy,Evening,4.6,76.7,1
+USR0602,Parasite,Thriller,2019,132,36,Non-Binary,Horror,Evening,3.6,64.1,0
+USR0603,The Dark Knight,Action,2008,152,62,Female,Comedy,Night,4.1,51.7,0
+USR0604,Zombieland,Comedy,2009,88,73,Female,Romance,Evening,3.3,62.5,0
+USR0605,Anchorman,Comedy,2004,94,44,Female,Drama,Morning,3.0,42.4,0
+USR0606,The Martian,Sci-Fi,2015,144,63,Female,Comedy,Morning,3.4,42.1,0
+USR0607,Forrest Gump,Drama,1994,142,60,Male,Thriller,Night,3.6,75.1,0
+USR0608,Knives Out,Thriller,2019,130,41,Male,Comedy,Night,3.2,49.9,0
+USR0609,Shutter Island,Thriller,2010,138,42,Female,Drama,Morning,1.6,29.8,0
+USR0610,Zodiac,Thriller,2007,157,33,Female,Action,Evening,2.4,42.9,0
+USR0611,The Grand Budapest Hotel,Comedy,2014,99,34,Male,Horror,Morning,2.5,18.7,0
+USR0612,La La Land,Romance,2016,128,72,Female,Sci-Fi,Afternoon,4.1,66.2,1
+USR0613,Titanic,Romance,1997,194,73,Male,Thriller,Evening,4.1,68.3,1
+USR0614,Titanic,Romance,1997,194,70,Non-Binary,Comedy,Afternoon,3.7,53.4,0
+USR0615,The Conjuring,Horror,2013,112,20,Female,Horror,Morning,4.3,98.1,1
+USR0616,The Martian,Sci-Fi,2015,144,72,Male,Drama,Afternoon,2.2,12.6,0
+USR0617,Pride & Prejudice,Romance,2005,129,74,Male,Horror,Night,3.4,24.0,0
+USR0618,The Notebook,Romance,2004,123,25,Female,Romance,Night,3.7,91.8,1
+USR0619,The Ring,Horror,2002,115,57,Female,Drama,Night,2.1,27.7,0
+USR0620,Dune,Sci-Fi,2021,155,28,Male,Action,Morning,3.7,56.4,1
+USR0621,Get Out,Horror,2017,104,42,Female,Horror,Evening,4.3,94.2,1
+USR0622,Mad Max: Fury Road,Action,2015,120,49,Female,Action,Night,3.9,86.3,1
+USR0623,Anchorman,Comedy,2004,94,56,Female,Romance,Morning,3.5,47.8,0
+USR0624,Pride & Prejudice,Romance,2005,129,39,Female,Thriller,Night,3.8,63.1,1
+USR0625,Get Out,Horror,2017,104,60,Male,Sci-Fi,Afternoon,1.9,20.0,0
+USR0626,Primal Fear,Thriller,1996,129,65,Female,Horror,Afternoon,3.7,56.6,1
+USR0627,Seven,Thriller,1995,127,37,Female,Horror,Night,2.8,57.9,0
+USR0628,Booksmart,Comedy,2019,102,36,Male,Horror,Morning,3.8,50.6,0
+USR0629,Mad Max: Fury Road,Action,2015,120,66,Male,Horror,Morning,3.5,61.7,0
+USR0630,A Nightmare on Elm Street,Horror,1984,91,32,Male,Thriller,Morning,2.5,19.7,0
+USR0631,The Hangover,Comedy,2009,100,46,Female,Thriller,Afternoon,2.6,36.1,0
+USR0632,The Conjuring,Horror,2013,112,50,Male,Sci-Fi,Night,2.6,33.9,0
+USR0633,Zombieland,Comedy,2009,88,61,Male,Comedy,Afternoon,4.5,100.0,1
+USR0634,Tenet,Sci-Fi,2020,150,61,Female,Action,Evening,2.6,56.2,0
+USR0635,Blade Runner 2049,Sci-Fi,2017,164,56,Male,Sci-Fi,Afternoon,4.5,85.1,1
+USR0636,The Matrix,Sci-Fi,1999,136,48,Male,Horror,Morning,3.0,64.3,0
+USR0637,Avengers: Endgame,Action,2019,181,75,Male,Sci-Fi,Morning,2.8,29.2,0
+USR0638,Gladiator,Action,2000,155,63,Female,Sci-Fi,Morning,3.5,55.7,0
+USR0639,The Hangover,Comedy,2009,100,73,Male,Horror,Morning,3.7,65.5,1
+USR0640,The Notebook,Romance,2004,123,74,Female,Thriller,Night,4.4,74.2,1
+USR0641,Seven,Thriller,1995,127,43,Female,Action,Evening,2.8,35.3,0
+USR0642,Die Hard,Action,1988,132,21,Male,Comedy,Evening,3.0,44.4,0
+USR0643,La La Land,Romance,2016,128,44,Female,Sci-Fi,Evening,3.1,39.8,0
+USR0644,Good Will Hunting,Drama,1997,126,22,Female,Drama,Evening,4.2,83.4,1
+USR0645,Primal Fear,Thriller,1996,129,42,Female,Action,Morning,3.4,21.9,0
+USR0646,Gone Girl,Thriller,2014,149,68,Male,Romance,Evening,3.0,39.3,0
+USR0647,Blade Runner 2049,Sci-Fi,2017,164,17,Male,Comedy,Evening,2.7,18.4,0
+USR0648,Insidious,Horror,2010,103,66,Male,Horror,Evening,2.9,70.0,0
+USR0649,A Quiet Place,Horror,2018,90,16,Female,Action,Morning,3.6,69.1,0
+USR0650,Whiplash,Drama,2014,106,39,Female,Action,Afternoon,3.6,81.5,0
+USR0651,Crazy Rich Asians,Romance,2018,120,53,Female,Drama,Morning,3.5,67.6,0
+USR0652,The Godfather,Drama,1972,175,42,Male,Drama,Afternoon,4.2,85.2,1
+USR0653,The Hangover,Comedy,2009,100,37,Female,Romance,Night,3.3,53.6,0
+USR0654,The Matrix,Sci-Fi,1999,136,67,Female,Sci-Fi,Night,4.9,91.3,1
+USR0655,Zodiac,Thriller,2007,157,68,Male,Comedy,Morning,2.6,32.1,0
+USR0656,A Quiet Place,Horror,2018,90,44,Female,Sci-Fi,Night,3.2,64.1,0
+USR0657,The Dark Knight,Action,2008,152,40,Female,Drama,Evening,3.3,59.8,0
+USR0658,A Nightmare on Elm Street,Horror,1984,91,46,Male,Thriller,Afternoon,4.1,66.8,1
+USR0659,Top Gun: Maverick,Action,2022,130,17,Female,Action,Afternoon,4.0,73.9,1
+USR0660,Forrest Gump,Drama,1994,142,72,Male,Comedy,Night,3.9,63.8,1
+USR0661,Tenet,Sci-Fi,2020,150,46,Female,Thriller,Night,3.1,41.1,0
+USR0662,Arrival,Sci-Fi,2016,116,26,Male,Action,Morning,2.8,46.9,0
+USR0663,A Quiet Place,Horror,2018,90,19,Female,Thriller,Afternoon,3.3,63.7,0
+USR0664,About Time,Romance,2013,123,60,Female,Horror,Morning,4.8,64.8,1
+USR0665,La La Land,Romance,2016,128,32,Female,Comedy,Morning,3.1,47.8,0
+USR0666,John Wick,Action,2014,101,62,Female,Drama,Evening,4.2,51.2,0
+USR0667,Parasite,Thriller,2019,132,30,Male,Action,Evening,3.0,43.7,0
+USR0668,The Hangover,Comedy,2009,100,65,Male,Thriller,Evening,2.9,38.2,0
+USR0669,Inception,Sci-Fi,2010,148,36,Male,Thriller,Night,3.7,61.8,1
+USR0670,La La Land,Romance,2016,128,46,Male,Comedy,Afternoon,4.0,70.2,1
+USR0671,Interstellar,Sci-Fi,2014,169,35,Male,Comedy,Morning,3.1,40.5,0
+USR0672,La La Land,Romance,2016,128,33,Male,Sci-Fi,Morning,2.3,29.0,0
+USR0673,Get Out,Horror,2017,104,33,Female,Comedy,Afternoon,3.7,40.4,0
+USR0674,About Time,Romance,2013,123,73,Male,Romance,Night,5.0,94.8,1
+USR0675,Parasite,Thriller,2019,132,56,Female,Action,Afternoon,3.0,38.5,0
+USR0676,Shutter Island,Thriller,2010,138,32,Male,Thriller,Afternoon,3.7,77.0,1
+USR0677,The Grand Budapest Hotel,Comedy,2014,99,73,Female,Action,Afternoon,2.6,34.1,0
+USR0678,A Nightmare on Elm Street,Horror,1984,91,21,Female,Horror,Night,4.3,100.0,1
+USR0679,Titanic,Romance,1997,194,61,Male,Thriller,Afternoon,3.5,48.5,0
+USR0680,Seven,Thriller,1995,127,47,Female,Comedy,Evening,3.2,52.6,0
+USR0681,Hereditary,Horror,2018,127,44,Female,Drama,Night,3.6,57.0,0
+USR0682,Pride & Prejudice,Romance,2005,129,16,Female,Sci-Fi,Evening,2.6,50.1,0
+USR0683,Forrest Gump,Drama,1994,142,36,Female,Romance,Night,3.1,45.4,0
+USR0684,Parasite,Thriller,2019,132,34,Female,Thriller,Afternoon,4.0,100.0,1
+USR0685,Titanic,Romance,1997,194,73,Female,Comedy,Morning,4.0,61.9,1
+USR0686,Dune,Sci-Fi,2021,155,23,Non-Binary,Drama,Morning,3.1,54.7,0
+USR0687,The Ring,Horror,2002,115,69,Female,Horror,Evening,2.8,65.3,0
+USR0688,The Notebook,Romance,2004,123,74,Male,Horror,Night,3.6,57.1,0
+USR0689,Titanic,Romance,1997,194,44,Male,Thriller,Evening,2.8,55.7,0
+USR0690,Superbad,Comedy,2007,113,72,Male,Drama,Afternoon,2.8,39.2,0
+USR0691,A Nightmare on Elm Street,Horror,1984,91,66,Male,Drama,Evening,1.8,22.2,0
+USR0692,The Hangover,Comedy,2009,100,22,Male,Drama,Afternoon,2.6,26.0,0
+USR0693,Primal Fear,Thriller,1996,129,75,Male,Drama,Morning,3.4,66.0,0
+USR0694,Step Brothers,Comedy,2008,98,19,Male,Sci-Fi,Night,2.5,26.2,0
+USR0695,About Time,Romance,2013,123,58,Male,Thriller,Evening,3.4,42.7,0
+USR0696,Crazy Rich Asians,Romance,2018,120,45,Male,Horror,Afternoon,2.6,25.2,0
+USR0697,Primal Fear,Thriller,1996,129,36,Female,Sci-Fi,Evening,3.1,36.1,0
+USR0698,The Hangover,Comedy,2009,100,46,Female,Drama,Afternoon,3.0,30.9,0
+USR0699,Step Brothers,Comedy,2008,98,30,Female,Drama,Night,3.5,65.4,0
+USR0700,Titanic,Romance,1997,194,71,Female,Sci-Fi,Night,3.6,34.4,0
+USR0701,Die Hard,Action,1988,132,39,Female,Romance,Morning,4.0,76.3,1
+USR0702,Insidious,Horror,2010,103,40,Female,Thriller,Night,2.6,48.6,0
+USR0703,Anchorman,Comedy,2004,94,52,Female,Romance,Afternoon,3.0,56.7,0
+USR0704,The Hangover,Comedy,2009,100,68,Female,Thriller,Night,2.4,38.2,0
+USR0705,Step Brothers,Comedy,2008,98,28,Male,Sci-Fi,Evening,2.8,49.4,0
+USR0706,Booksmart,Comedy,2019,102,73,Female,Horror,Morning,3.3,39.7,0
+USR0707,The Grand Budapest Hotel,Comedy,2014,99,55,Male,Romance,Afternoon,4.3,70.7,1
+USR0708,Before Sunrise,Romance,1995,101,18,Male,Horror,Afternoon,3.3,61.8,0
+USR0709,Mad Max: Fury Road,Action,2015,120,27,Male,Drama,Morning,2.7,43.0,0
+USR0710,Interstellar,Sci-Fi,2014,169,38,Female,Sci-Fi,Evening,3.7,68.2,1
+USR0711,The Matrix,Sci-Fi,1999,136,73,Female,Romance,Morning,3.4,61.0,0
+USR0712,Tenet,Sci-Fi,2020,150,69,Female,Sci-Fi,Evening,3.7,89.4,1
+USR0713,Whiplash,Drama,2014,106,44,Male,Comedy,Morning,2.4,42.5,0
+USR0714,A Quiet Place,Horror,2018,90,29,Female,Sci-Fi,Night,3.2,48.0,0
+USR0715,The Matrix,Sci-Fi,1999,136,66,Male,Action,Night,3.3,57.1,0
+USR0716,Insidious,Horror,2010,103,30,Male,Horror,Night,3.7,78.8,1
+USR0717,The Martian,Sci-Fi,2015,144,71,Male,Comedy,Afternoon,3.4,66.6,0
+USR0718,Die Hard,Action,1988,132,56,Male,Comedy,Evening,3.2,43.5,0
+USR0719,Good Will Hunting,Drama,1997,126,46,Female,Romance,Morning,2.9,32.9,0
+USR0720,Good Will Hunting,Drama,1997,126,59,Female,Thriller,Night,3.2,55.5,0
+USR0721,Booksmart,Comedy,2019,102,25,Male,Romance,Evening,3.6,71.0,0
+USR0722,Before Sunrise,Romance,1995,101,20,Female,Thriller,Night,3.7,60.8,1
+USR0723,La La Land,Romance,2016,128,40,Female,Drama,Afternoon,4.5,62.7,1
+USR0724,Good Will Hunting,Drama,1997,126,31,Female,Horror,Night,2.7,38.2,0
+USR0725,John Wick,Action,2014,101,73,Female,Sci-Fi,Afternoon,3.0,47.3,0
+USR0726,The Martian,Sci-Fi,2015,144,26,Male,Sci-Fi,Night,3.8,72.7,1
+USR0727,Good Will Hunting,Drama,1997,126,61,Male,Drama,Evening,4.6,59.1,1
+USR0728,Whiplash,Drama,2014,106,72,Male,Thriller,Afternoon,3.7,62.8,1
+USR0729,Knives Out,Thriller,2019,130,54,Female,Comedy,Night,3.3,56.5,0
+USR0730,A Quiet Place,Horror,2018,90,30,Female,Comedy,Night,2.8,47.8,0
+USR0731,Avengers: Endgame,Action,2019,181,61,Male,Horror,Afternoon,3.6,42.9,0
+USR0732,A Nightmare on Elm Street,Horror,1984,91,15,Male,Sci-Fi,Afternoon,3.6,60.2,0
+USR0733,Gone Girl,Thriller,2014,149,34,Female,Thriller,Morning,4.1,98.6,1
+USR0734,Whiplash,Drama,2014,106,52,Female,Sci-Fi,Afternoon,3.8,50.6,0
+USR0735,The Notebook,Romance,2004,123,39,Male,Action,Afternoon,3.5,53.6,0
+USR0736,The Dark Knight,Action,2008,152,62,Male,Horror,Night,2.5,39.4,0
+USR0737,Pulp Fiction,Drama,1994,154,49,Female,Horror,Night,3.5,61.1,0
+USR0738,Zombieland,Comedy,2009,88,39,Female,Horror,Evening,2.9,44.4,0
+USR0739,A Nightmare on Elm Street,Horror,1984,91,59,Male,Romance,Night,2.1,23.1,0
+USR0740,Whiplash,Drama,2014,106,19,Male,Sci-Fi,Morning,3.4,66.1,0
+USR0741,Good Will Hunting,Drama,1997,126,25,Female,Drama,Evening,4.1,69.1,1
+USR0742,Before Sunrise,Romance,1995,101,75,Male,Drama,Afternoon,3.1,54.1,0
+USR0743,The Ring,Horror,2002,115,48,Male,Drama,Morning,2.8,60.9,0
+USR0744,The Ring,Horror,2002,115,54,Non-Binary,Action,Morning,3.2,40.0,0
+USR0745,Before Sunrise,Romance,1995,101,56,Female,Action,Afternoon,2.8,38.7,0
+USR0746,Shutter Island,Thriller,2010,138,22,Male,Action,Morning,2.4,38.0,0
+USR0747,Tenet,Sci-Fi,2020,150,52,Male,Thriller,Morning,2.8,47.5,0
+USR0748,Crazy Rich Asians,Romance,2018,120,61,Male,Horror,Afternoon,3.8,64.0,1
+USR0749,Tenet,Sci-Fi,2020,150,45,Male,Comedy,Night,3.2,67.6,0
+USR0750,Step Brothers,Comedy,2008,98,40,Female,Sci-Fi,Night,3.4,38.6,0
+USR0751,Forrest Gump,Drama,1994,142,64,Non-Binary,Action,Morning,3.4,52.7,0
+USR0752,Crazy Rich Asians,Romance,2018,120,58,Male,Comedy,Evening,3.5,57.4,0
+USR0753,Avengers: Endgame,Action,2019,181,31,Female,Drama,Night,3.6,55.7,0
+USR0754,Whiplash,Drama,2014,106,58,Female,Romance,Morning,2.9,36.4,0
+USR0755,Booksmart,Comedy,2019,102,15,Male,Drama,Morning,4.2,82.6,1
+USR0756,Get Out,Horror,2017,104,51,Male,Horror,Afternoon,3.8,73.5,1
+USR0757,The Conjuring,Horror,2013,112,42,Female,Drama,Morning,3.0,29.8,0
+USR0758,The Godfather,Drama,1972,175,16,Female,Thriller,Night,3.9,58.7,1
+USR0759,Hereditary,Horror,2018,127,23,Male,Sci-Fi,Night,3.5,46.1,0
+USR0760,Dune,Sci-Fi,2021,155,53,Female,Action,Night,3.7,49.9,0
+USR0761,La La Land,Romance,2016,128,32,Male,Romance,Morning,3.4,49.8,0
+USR0762,Interstellar,Sci-Fi,2014,169,59,Female,Thriller,Afternoon,3.1,42.8,0
+USR0763,Seven,Thriller,1995,127,20,Male,Sci-Fi,Evening,4.2,36.4,0
+USR0764,Before Sunrise,Romance,1995,101,51,Female,Thriller,Night,4.0,69.9,1
+USR0765,Avengers: Endgame,Action,2019,181,56,Male,Action,Night,4.0,84.2,1
+USR0766,The Godfather,Drama,1972,175,55,Male,Thriller,Night,4.3,59.8,1
+USR0767,Knives Out,Thriller,2019,130,25,Male,Sci-Fi,Evening,1.8,13.3,0
+USR0768,Gone Girl,Thriller,2014,149,73,Female,Horror,Afternoon,2.4,41.7,0
+USR0769,Get Out,Horror,2017,104,61,Female,Horror,Afternoon,2.8,65.4,0
+USR0770,Avengers: Endgame,Action,2019,181,70,Male,Action,Afternoon,3.6,71.8,0
+USR0771,Mad Max: Fury Road,Action,2015,120,55,Male,Comedy,Night,2.7,38.3,0
+USR0772,Zodiac,Thriller,2007,157,25,Male,Romance,Afternoon,3.2,44.4,0
+USR0773,Forrest Gump,Drama,1994,142,26,Male,Sci-Fi,Afternoon,2.8,28.1,0
+USR0774,Interstellar,Sci-Fi,2014,169,65,Male,Romance,Evening,2.9,43.8,0
+USR0775,La La Land,Romance,2016,128,58,Male,Horror,Night,2.9,57.6,0
+USR0776,Arrival,Sci-Fi,2016,116,18,Non-Binary,Sci-Fi,Afternoon,4.5,77.3,1
+USR0777,John Wick,Action,2014,101,22,Female,Horror,Evening,3.1,47.2,0
+USR0778,Superbad,Comedy,2007,113,26,Male,Comedy,Morning,3.7,64.8,1
+USR0779,Whiplash,Drama,2014,106,50,Female,Romance,Afternoon,3.5,43.5,0
+USR0780,The Grand Budapest Hotel,Comedy,2014,99,43,Female,Romance,Afternoon,2.5,25.3,0
+USR0781,The Martian,Sci-Fi,2015,144,21,Male,Drama,Morning,2.0,23.2,0
+USR0782,La La Land,Romance,2016,128,50,Female,Drama,Evening,3.2,41.7,0
+USR0783,The Grand Budapest Hotel,Comedy,2014,99,51,Female,Drama,Morning,2.8,35.1,0
+USR0784,Booksmart,Comedy,2019,102,50,Male,Sci-Fi,Morning,3.2,60.1,0
+USR0785,A Nightmare on Elm Street,Horror,1984,91,33,Female,Romance,Evening,2.3,42.3,0
+USR0786,Whiplash,Drama,2014,106,36,Male,Horror,Night,3.4,54.4,0
+USR0787,Step Brothers,Comedy,2008,98,29,Female,Action,Night,2.8,53.8,0
+USR0788,A Nightmare on Elm Street,Horror,1984,91,34,Female,Comedy,Morning,3.1,17.0,0
+USR0789,Good Will Hunting,Drama,1997,126,18,Non-Binary,Thriller,Evening,3.4,69.3,0
+USR0790,Superbad,Comedy,2007,113,75,Female,Horror,Morning,2.8,57.0,0
+USR0791,Mad Max: Fury Road,Action,2015,120,24,Male,Drama,Night,4.0,62.1,1
+USR0792,The Notebook,Romance,2004,123,60,Male,Horror,Evening,3.1,42.6,0
+USR0793,Avengers: Endgame,Action,2019,181,35,Female,Sci-Fi,Evening,2.5,30.7,0
+USR0794,The Ring,Horror,2002,115,56,Female,Sci-Fi,Night,1.6,24.2,0
+USR0795,Before Sunrise,Romance,1995,101,25,Non-Binary,Comedy,Evening,2.8,50.9,0
+USR0796,John Wick,Action,2014,101,56,Female,Thriller,Afternoon,3.3,48.9,0
+USR0797,Pulp Fiction,Drama,1994,154,47,Female,Action,Afternoon,3.7,45.6,0
+USR0798,Tenet,Sci-Fi,2020,150,34,Female,Comedy,Morning,2.2,49.9,0
+USR0799,Zodiac,Thriller,2007,157,23,Male,Action,Afternoon,2.9,40.3,0
+USR0800,Die Hard,Action,1988,132,34,Female,Sci-Fi,Morning,4.0,69.2,1
+USR0801,Zodiac,Thriller,2007,157,68,Male,Horror,Morning,3.1,55.9,0
+USR0802,Gladiator,Action,2000,155,75,Male,Romance,Afternoon,3.6,55.7,0
+USR0803,A Nightmare on Elm Street,Horror,1984,91,38,Male,Sci-Fi,Night,3.1,45.2,0
+USR0804,Avengers: Endgame,Action,2019,181,59,Male,Thriller,Evening,3.3,52.5,0
+USR0805,The Hangover,Comedy,2009,100,39,Male,Romance,Night,3.7,73.9,1
+USR0806,Blade Runner 2049,Sci-Fi,2017,164,37,Male,Comedy,Night,3.3,38.1,0
+USR0807,Avengers: Endgame,Action,2019,181,54,Male,Horror,Evening,3.0,42.9,0
+USR0808,Seven,Thriller,1995,127,31,Female,Thriller,Morning,3.6,70.2,0
+USR0809,The Matrix,Sci-Fi,1999,136,58,Female,Thriller,Evening,2.0,29.9,0
+USR0810,The Hangover,Comedy,2009,100,41,Male,Comedy,Afternoon,3.5,86.1,0
+USR0811,Interstellar,Sci-Fi,2014,169,33,Male,Thriller,Evening,3.7,57.8,1
+USR0812,The Notebook,Romance,2004,123,45,Male,Romance,Morning,3.3,63.5,0
+USR0813,Get Out,Horror,2017,104,69,Female,Drama,Evening,2.0,33.3,0
+USR0814,Inception,Sci-Fi,2010,148,68,Female,Comedy,Night,3.6,57.4,0
+USR0815,Gone Girl,Thriller,2014,149,72,Male,Action,Morning,3.6,53.7,0
+USR0816,The Martian,Sci-Fi,2015,144,22,Male,Comedy,Morning,2.5,40.8,0
+USR0817,La La Land,Romance,2016,128,41,Male,Drama,Morning,3.4,44.8,0
+USR0818,A Quiet Place,Horror,2018,90,65,Female,Thriller,Evening,1.4,25.5,0
+USR0819,Superbad,Comedy,2007,113,74,Female,Drama,Night,3.7,55.1,1
+USR0820,The Shawshank Redemption,Drama,1994,142,57,Male,Drama,Night,5.0,88.6,1
+USR0821,Dune,Sci-Fi,2021,155,42,Female,Comedy,Night,3.1,37.5,0
+USR0822,Shutter Island,Thriller,2010,138,45,Male,Comedy,Afternoon,3.2,46.2,0
+USR0823,Shutter Island,Thriller,2010,138,48,Female,Thriller,Afternoon,4.8,100.0,1
+USR0824,The Ring,Horror,2002,115,42,Female,Comedy,Night,2.6,52.7,0
+USR0825,Insidious,Horror,2010,103,25,Female,Drama,Morning,4.0,67.5,1
+USR0826,Inception,Sci-Fi,2010,148,26,Male,Romance,Morning,2.5,49.8,0
+USR0827,Dune,Sci-Fi,2021,155,68,Female,Action,Evening,1.9,16.7,0
+USR0828,Zombieland,Comedy,2009,88,68,Female,Romance,Evening,3.4,33.4,0
+USR0829,Top Gun: Maverick,Action,2022,130,71,Male,Thriller,Morning,3.0,23.7,0
+USR0830,Knives Out,Thriller,2019,130,28,Male,Drama,Morning,3.2,47.7,0
+USR0831,Avengers: Endgame,Action,2019,181,52,Male,Horror,Morning,4.0,52.2,0
+USR0832,Zombieland,Comedy,2009,88,52,Male,Action,Afternoon,2.7,44.6,0
+USR0833,Gone Girl,Thriller,2014,149,63,Male,Sci-Fi,Morning,3.7,73.6,1
+USR0834,The Conjuring,Horror,2013,112,52,Female,Action,Morning,3.2,38.7,0
+USR0835,Whiplash,Drama,2014,106,18,Female,Comedy,Afternoon,3.0,38.2,0
+USR0836,The Godfather,Drama,1972,175,44,Male,Romance,Evening,2.8,36.9,0
+USR0837,Insidious,Horror,2010,103,50,Female,Comedy,Evening,3.4,52.4,0
+USR0838,Blade Runner 2049,Sci-Fi,2017,164,32,Male,Romance,Night,3.5,54.2,0
+USR0839,Die Hard,Action,1988,132,45,Female,Action,Evening,4.6,92.2,1
+USR0840,Knives Out,Thriller,2019,130,44,Male,Sci-Fi,Night,2.9,50.3,0
+USR0841,A Quiet Place,Horror,2018,90,40,Male,Horror,Morning,4.2,57.7,1
+USR0842,Primal Fear,Thriller,1996,129,45,Non-Binary,Thriller,Morning,4.3,97.3,1
+USR0843,The Hangover,Comedy,2009,100,53,Non-Binary,Romance,Night,2.7,48.9,0
+USR0844,Top Gun: Maverick,Action,2022,130,67,Male,Drama,Evening,2.7,39.0,0
+USR0845,A Quiet Place,Horror,2018,90,17,Male,Sci-Fi,Night,3.7,57.8,1
+USR0846,Zombieland,Comedy,2009,88,58,Male,Sci-Fi,Evening,3.2,60.1,0
+USR0847,The Conjuring,Horror,2013,112,63,Female,Thriller,Afternoon,2.2,44.0,0
+USR0848,Shutter Island,Thriller,2010,138,39,Male,Romance,Evening,3.3,45.6,0
+USR0849,Inception,Sci-Fi,2010,148,53,Female,Drama,Evening,3.6,73.4,0
+USR0850,Gone Girl,Thriller,2014,149,59,Female,Romance,Evening,2.7,49.7,0
+USR0851,Gladiator,Action,2000,155,73,Male,Horror,Afternoon,2.9,35.5,0
+USR0852,Pulp Fiction,Drama,1994,154,61,Male,Sci-Fi,Night,3.9,44.0,0
+USR0853,Before Sunrise,Romance,1995,101,26,Male,Romance,Morning,2.8,58.6,0
+USR0854,Forrest Gump,Drama,1994,142,69,Male,Horror,Night,4.1,89.0,1
+USR0855,Get Out,Horror,2017,104,17,Female,Drama,Afternoon,3.6,40.6,0
+USR0856,The Shawshank Redemption,Drama,1994,142,51,Male,Sci-Fi,Evening,3.0,67.6,0
+USR0857,Die Hard,Action,1988,132,63,Male,Drama,Morning,2.2,34.2,0
+USR0858,Pride & Prejudice,Romance,2005,129,71,Male,Thriller,Evening,3.9,46.5,0
+USR0859,Zodiac,Thriller,2007,157,71,Male,Comedy,Night,1.7,22.3,0
+USR0860,Booksmart,Comedy,2019,102,34,Female,Drama,Afternoon,3.0,49.9,0
+USR0861,The Dark Knight,Action,2008,152,38,Male,Thriller,Morning,2.8,39.9,0
+USR0862,Good Will Hunting,Drama,1997,126,68,Female,Sci-Fi,Afternoon,3.1,48.6,0
+USR0863,Crazy Rich Asians,Romance,2018,120,61,Female,Horror,Morning,3.5,39.4,0
+USR0864,Top Gun: Maverick,Action,2022,130,25,Female,Horror,Morning,3.5,53.0,0
+USR0865,Forrest Gump,Drama,1994,142,59,Male,Action,Morning,3.8,56.4,1
+USR0866,The Shawshank Redemption,Drama,1994,142,37,Male,Comedy,Afternoon,2.7,48.8,0
+USR0867,Primal Fear,Thriller,1996,129,74,Female,Comedy,Night,3.2,50.8,0
+USR0868,La La Land,Romance,2016,128,63,Female,Comedy,Afternoon,3.6,74.8,0
+USR0869,Insidious,Horror,2010,103,52,Male,Horror,Night,3.5,88.8,0
+USR0870,The Matrix,Sci-Fi,1999,136,60,Male,Horror,Evening,2.1,50.3,0
+USR0871,Forrest Gump,Drama,1994,142,35,Non-Binary,Action,Afternoon,3.7,43.8,0
+USR0872,Arrival,Sci-Fi,2016,116,57,Female,Thriller,Morning,3.7,74.1,1
+USR0873,Hereditary,Horror,2018,127,47,Female,Horror,Evening,3.5,65.4,0
+USR0874,About Time,Romance,2013,123,38,Female,Comedy,Afternoon,3.2,47.6,0
+USR0875,Zodiac,Thriller,2007,157,41,Male,Action,Morning,3.7,58.6,1
+USR0876,Step Brothers,Comedy,2008,98,40,Female,Romance,Morning,2.1,25.4,0
+USR0877,Seven,Thriller,1995,127,68,Male,Action,Night,2.1,32.7,0
+USR0878,Before Sunrise,Romance,1995,101,64,Male,Comedy,Morning,3.2,46.0,0
+USR0879,The Notebook,Romance,2004,123,25,Female,Comedy,Evening,3.2,49.1,0
+USR0880,La La Land,Romance,2016,128,33,Female,Action,Night,3.8,31.9,0
+USR0881,Forrest Gump,Drama,1994,142,15,Male,Romance,Morning,3.1,57.2,0
+USR0882,Hereditary,Horror,2018,127,39,Male,Romance,Evening,3.2,60.2,0
+USR0883,Knives Out,Thriller,2019,130,68,Female,Action,Afternoon,2.7,32.6,0
+USR0884,Step Brothers,Comedy,2008,98,58,Female,Sci-Fi,Afternoon,4.0,46.3,0
+USR0885,The Grand Budapest Hotel,Comedy,2014,99,35,Male,Action,Night,3.3,41.4,0
+USR0886,The Hangover,Comedy,2009,100,24,Female,Drama,Afternoon,2.6,23.4,0
+USR0887,Mad Max: Fury Road,Action,2015,120,23,Female,Drama,Evening,3.2,55.9,0
+USR0888,Step Brothers,Comedy,2008,98,40,Female,Horror,Evening,3.9,63.4,1
+USR0889,Titanic,Romance,1997,194,19,Female,Sci-Fi,Evening,3.7,57.5,1
+USR0890,The Hangover,Comedy,2009,100,56,Female,Romance,Evening,3.2,38.8,0
+USR0891,A Nightmare on Elm Street,Horror,1984,91,60,Male,Thriller,Morning,1.1,10.0,0
+USR0892,La La Land,Romance,2016,128,74,Female,Drama,Evening,3.5,35.6,0
+USR0893,Gone Girl,Thriller,2014,149,37,Female,Horror,Morning,2.9,47.5,0
+USR0894,Seven,Thriller,1995,127,65,Female,Horror,Morning,2.8,33.0,0
+USR0895,Get Out,Horror,2017,104,69,Male,Sci-Fi,Morning,2.3,50.7,0
+USR0896,Whiplash,Drama,2014,106,56,Female,Comedy,Afternoon,3.4,46.5,0
+USR0897,Booksmart,Comedy,2019,102,34,Female,Comedy,Afternoon,3.2,61.7,0
+USR0898,Avengers: Endgame,Action,2019,181,61,Female,Action,Night,3.7,86.0,1
+USR0899,Crazy Rich Asians,Romance,2018,120,49,Female,Action,Evening,3.4,55.6,0
+USR0900,The Grand Budapest Hotel,Comedy,2014,99,33,Female,Horror,Afternoon,2.9,39.0,0
+USR0901,Arrival,Sci-Fi,2016,116,42,Female,Comedy,Afternoon,3.4,51.8,0
+USR0902,Crazy Rich Asians,Romance,2018,120,21,Female,Sci-Fi,Night,3.7,47.2,0
+USR0903,The Martian,Sci-Fi,2015,144,37,Female,Thriller,Morning,3.1,42.5,0
+USR0904,Pulp Fiction,Drama,1994,154,25,Female,Comedy,Afternoon,3.5,46.3,0
+USR0905,Superbad,Comedy,2007,113,52,Male,Comedy,Afternoon,4.1,75.8,1
+USR0906,Booksmart,Comedy,2019,102,53,Female,Comedy,Night,4.5,80.5,1
+USR0907,Step Brothers,Comedy,2008,98,21,Male,Action,Morning,3.4,62.5,0
+USR0908,Shutter Island,Thriller,2010,138,18,Female,Comedy,Afternoon,3.4,46.7,0
+USR0909,A Quiet Place,Horror,2018,90,15,Male,Thriller,Evening,2.9,39.6,0
+USR0910,Step Brothers,Comedy,2008,98,25,Female,Action,Afternoon,3.7,37.1,0
+USR0911,Parasite,Thriller,2019,132,73,Female,Comedy,Night,3.2,51.8,0
+USR0912,The Dark Knight,Action,2008,152,66,Female,Comedy,Night,3.9,55.7,1
+USR0913,About Time,Romance,2013,123,75,Male,Action,Night,3.1,49.8,0
+USR0914,Blade Runner 2049,Sci-Fi,2017,164,64,Male,Sci-Fi,Evening,3.9,72.7,1
+USR0915,Mad Max: Fury Road,Action,2015,120,64,Female,Horror,Evening,3.5,55.9,0
+USR0916,The Hangover,Comedy,2009,100,48,Female,Romance,Night,3.1,29.8,0
+USR0917,Hereditary,Horror,2018,127,43,Female,Thriller,Evening,3.0,55.5,0
+USR0918,Good Will Hunting,Drama,1997,126,75,Male,Thriller,Night,3.3,25.4,0
+USR0919,Crazy Rich Asians,Romance,2018,120,51,Female,Thriller,Morning,2.7,31.8,0
+USR0920,Parasite,Thriller,2019,132,36,Male,Sci-Fi,Afternoon,2.6,43.0,0
+USR0921,A Nightmare on Elm Street,Horror,1984,91,30,Male,Sci-Fi,Night,2.0,31.5,0
+USR0922,The Hangover,Comedy,2009,100,20,Male,Action,Morning,3.6,34.5,0
+USR0923,A Quiet Place,Horror,2018,90,23,Male,Action,Afternoon,3.7,62.3,1
+USR0924,The Notebook,Romance,2004,123,69,Female,Comedy,Afternoon,4.1,67.8,1
+USR0925,Zodiac,Thriller,2007,157,47,Female,Drama,Night,3.0,44.5,0
+USR0926,Insidious,Horror,2010,103,73,Female,Drama,Afternoon,1.9,24.0,0
+USR0927,Crazy Rich Asians,Romance,2018,120,32,Male,Action,Morning,3.5,58.2,0
+USR0928,Titanic,Romance,1997,194,31,Female,Horror,Afternoon,3.6,53.8,0
+USR0929,Avengers: Endgame,Action,2019,181,70,Male,Horror,Night,3.5,45.4,0
+USR0930,Mad Max: Fury Road,Action,2015,120,18,Non-Binary,Drama,Afternoon,3.5,46.9,0
+USR0931,Anchorman,Comedy,2004,94,28,Female,Horror,Night,2.3,36.1,0
+USR0932,Tenet,Sci-Fi,2020,150,36,Female,Horror,Night,2.1,19.2,0
+USR0933,The Godfather,Drama,1972,175,36,Non-Binary,Thriller,Morning,3.1,63.4,0
+USR0934,A Quiet Place,Horror,2018,90,15,Female,Sci-Fi,Evening,4.0,64.6,1
+USR0935,The Hangover,Comedy,2009,100,70,Male,Horror,Evening,3.0,32.1,0
+USR0936,Zombieland,Comedy,2009,88,35,Female,Drama,Evening,3.8,57.7,1
+USR0937,Get Out,Horror,2017,104,24,Female,Action,Morning,3.5,77.4,0
+USR0938,Knives Out,Thriller,2019,130,48,Male,Drama,Afternoon,2.4,37.6,0
+USR0939,The Shawshank Redemption,Drama,1994,142,33,Female,Sci-Fi,Morning,3.6,52.0,0
+USR0940,The Notebook,Romance,2004,123,36,Female,Drama,Morning,3.6,42.0,0
+USR0941,Parasite,Thriller,2019,132,20,Female,Thriller,Morning,3.7,67.3,1
+USR0942,About Time,Romance,2013,123,41,Male,Horror,Night,2.8,30.2,0
+USR0943,Pulp Fiction,Drama,1994,154,71,Female,Sci-Fi,Evening,3.6,66.9,0
+USR0944,Forrest Gump,Drama,1994,142,52,Male,Thriller,Morning,4.2,48.2,0
+USR0945,The Ring,Horror,2002,115,37,Female,Action,Morning,3.8,59.1,1
+USR0946,Parasite,Thriller,2019,132,72,Female,Sci-Fi,Evening,2.9,38.2,0
+USR0947,Booksmart,Comedy,2019,102,28,Female,Thriller,Evening,3.6,58.2,0
+USR0948,Pulp Fiction,Drama,1994,154,44,Female,Thriller,Night,2.9,40.1,0
+USR0949,A Quiet Place,Horror,2018,90,61,Male,Drama,Night,2.4,61.0,0
+USR0950,La La Land,Romance,2016,128,41,Female,Thriller,Evening,3.2,52.9,0
+USR0951,Step Brothers,Comedy,2008,98,50,Female,Romance,Evening,2.8,28.9,0
+USR0952,Zombieland,Comedy,2009,88,40,Male,Sci-Fi,Morning,2.3,40.4,0
+USR0953,Superbad,Comedy,2007,113,52,Male,Thriller,Night,2.2,35.5,0
+USR0954,Tenet,Sci-Fi,2020,150,71,Male,Action,Night,2.8,34.7,0
+USR0955,Inception,Sci-Fi,2010,148,31,Male,Sci-Fi,Night,4.8,98.3,1
+USR0956,Hereditary,Horror,2018,127,35,Female,Horror,Morning,4.8,100.0,1
+USR0957,Blade Runner 2049,Sci-Fi,2017,164,32,Female,Drama,Morning,2.4,40.3,0
+USR0958,The Grand Budapest Hotel,Comedy,2014,99,28,Female,Horror,Night,3.5,54.9,0
+USR0959,Inception,Sci-Fi,2010,148,23,Male,Comedy,Evening,3.2,44.9,0
+USR0960,The Ring,Horror,2002,115,40,Female,Action,Afternoon,3.1,45.5,0
+USR0961,Before Sunrise,Romance,1995,101,32,Female,Comedy,Afternoon,3.6,62.2,0
+USR0962,A Nightmare on Elm Street,Horror,1984,91,58,Female,Action,Night,1.6,10.0,0
+USR0963,A Quiet Place,Horror,2018,90,69,Female,Drama,Night,2.1,37.2,0
+USR0964,Arrival,Sci-Fi,2016,116,60,Female,Romance,Afternoon,2.7,39.2,0
+USR0965,Blade Runner 2049,Sci-Fi,2017,164,24,Male,Sci-Fi,Night,3.6,86.9,0
+USR0966,The Martian,Sci-Fi,2015,144,30,Female,Horror,Morning,2.8,39.5,0
+USR0967,The Ring,Horror,2002,115,28,Male,Sci-Fi,Morning,2.8,41.1,0
+USR0968,The Notebook,Romance,2004,123,66,Female,Sci-Fi,Evening,4.5,72.0,1
+USR0969,Step Brothers,Comedy,2008,98,63,Female,Drama,Morning,2.5,46.0,0
+USR0970,Hereditary,Horror,2018,127,48,Female,Romance,Night,2.7,39.5,0
+USR0971,Knives Out,Thriller,2019,130,56,Non-Binary,Horror,Morning,3.5,57.1,0
+USR0972,A Nightmare on Elm Street,Horror,1984,91,74,Female,Drama,Evening,2.0,37.2,0
+USR0973,About Time,Romance,2013,123,54,Female,Drama,Afternoon,3.0,53.6,0
+USR0974,Shutter Island,Thriller,2010,138,75,Female,Romance,Night,3.2,58.8,0
+USR0975,Anchorman,Comedy,2004,94,67,Male,Horror,Night,2.8,51.1,0
+USR0976,Top Gun: Maverick,Action,2022,130,41,Female,Romance,Night,3.7,44.5,0
+USR0977,Blade Runner 2049,Sci-Fi,2017,164,29,Male,Sci-Fi,Morning,4.2,100.0,1
+USR0978,Anchorman,Comedy,2004,94,29,Male,Thriller,Morning,3.8,58.2,1
+USR0979,Tenet,Sci-Fi,2020,150,71,Female,Sci-Fi,Night,3.6,84.8,0
+USR0980,The Shawshank Redemption,Drama,1994,142,69,Female,Drama,Afternoon,3.8,78.9,1
+USR0981,Arrival,Sci-Fi,2016,116,55,Female,Action,Morning,3.3,54.9,0
+USR0982,Zombieland,Comedy,2009,88,15,Female,Drama,Afternoon,2.8,31.0,0
+USR0983,The Dark Knight,Action,2008,152,36,Female,Sci-Fi,Morning,2.6,44.8,0
+USR0984,Insidious,Horror,2010,103,75,Female,Horror,Morning,2.9,88.5,0
+USR0985,Before Sunrise,Romance,1995,101,22,Male,Drama,Morning,3.4,56.9,0
+USR0986,Interstellar,Sci-Fi,2014,169,62,Male,Romance,Afternoon,4.0,52.3,0
+USR0987,Step Brothers,Comedy,2008,98,68,Female,Thriller,Morning,2.9,52.1,0
+USR0988,Gladiator,Action,2000,155,23,Male,Thriller,Afternoon,3.4,45.5,0
+USR0989,John Wick,Action,2014,101,58,Female,Thriller,Afternoon,3.1,41.5,0
+USR0990,Parasite,Thriller,2019,132,52,Female,Sci-Fi,Night,3.0,49.7,0
+USR0991,Anchorman,Comedy,2004,94,35,Male,Horror,Night,3.7,54.2,0
+USR0992,A Quiet Place,Horror,2018,90,42,Male,Drama,Night,2.8,36.9,0
+USR0993,Interstellar,Sci-Fi,2014,169,71,Female,Sci-Fi,Afternoon,4.7,88.8,1
+USR0994,Primal Fear,Thriller,1996,129,71,Male,Thriller,Evening,4.6,86.9,1
+USR0995,A Nightmare on Elm Street,Horror,1984,91,32,Male,Romance,Afternoon,3.5,55.7,0
+USR0996,Crazy Rich Asians,Romance,2018,120,75,Female,Thriller,Afternoon,3.6,50.8,0
+USR0997,Top Gun: Maverick,Action,2022,130,58,Male,Horror,Night,3.4,78.5,0
+USR0998,The Dark Knight,Action,2008,152,27,Female,Drama,Afternoon,3.0,66.5,0
+USR0999,Gone Girl,Thriller,2014,149,33,Male,Comedy,Afternoon,2.5,35.5,0
+USR1000,Anchorman,Comedy,2004,94,32,Female,Romance,Afternoon,2.2,36.0,0
