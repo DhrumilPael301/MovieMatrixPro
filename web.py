@@ -16,9 +16,10 @@ st.set_page_config(
 
 st.markdown(
     """
-    <meta name="google-site-verification" content="Eq6sy1djzBtxlno7d79V0bOey9O_7bSSu4idQTGD4SU" />" />
+    <meta name="google-site-verification" content="Eq6sy1djzBtxlno7d79V0bOey9O_7bSSu4idQTGD4SU">
     """,
     unsafe_allow_html=True
+
 )
 # read dataset
 
