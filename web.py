@@ -475,6 +475,16 @@ Reasons for selecting Random Forest:
 """)
     st.divider()
 
+
+doc_file = "MovieMatrix_Documentation.docx"
+
+with open(doc_file, "rb") as file:
+    st.download_button(
+        label="📥 Download Documentation",
+        data=file,
+        file_name="MovieMatrix Documentation.docx",
+        mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    )    
 #developer
     st.header("Developer")
     st.success("""
