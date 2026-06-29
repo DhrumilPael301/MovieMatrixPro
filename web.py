@@ -291,36 +291,36 @@ elif selected == "Prediction":
                 st.error("❌ User is unlikely to Like this Movie")
         st.divider()
 
-        st.subheader("Movie Summary")
-        summary = pd.DataFrame({
-            "Feature": [
-                "Movie Title",
-                "Movie Genre",
-                "Release Year",
-                "Duration",
-                "User Age",
-                "User Gender",
-                "Preferred Genre",
-                "Time Of Day",
-                "User Rating",
-                "Watched %"
-            ],
-            "Value": [
-                movie_title,
-                movie_genre,
-                release_year,
-                duration,
-                user_age,
-                gender,
-                preferred,
-                time,
-                rating,
-                watched
-            ]
-        })
-        st.dataframe(summary, use_container_width=True)
+        # st.subheader("Movie Summary")
+        # summary = pd.DataFrame({
+        #     "Feature": [
+        #         "Movie Title",
+        #         "Movie Genre",
+        #         "Release Year",
+        #         "Duration",
+        #         "User Age",
+        #         "User Gender",
+        #         "Preferred Genre",
+        #         "Time Of Day",
+        #         "User Rating",
+        #         "Watched %"
+        #     ],
+        #     "Value": [
+        #         movie_title,
+        #         movie_genre,
+        #         release_year,
+        #         duration,
+        #         user_age,
+        #         gender,
+        #         preferred,
+        #         time,
+        #         rating,
+        #         watched
+        #     ]
+        # })
+        # st.dataframe(summary, use_container_width=True)
 
-        st.divider()
+        # st.divider()
 
         # st.subheader("Recommendation")
         # if prediction[0] == 1:
