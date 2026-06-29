@@ -396,7 +396,7 @@ Reasons for selecting Random Forest:
     st.divider()
 
 #future scope
-    st.header("Future Scope")
+    st.header("(┬┬﹏┬┬)Future Scope")
     st.write("""
 • Deep Learning based recommendation.
 
@@ -425,7 +425,7 @@ Reasons for selecting Random Forest:
         #mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
     #)    
 #developer
-    st.header("Developer")
+    st.header("🧑‍💻Developer")
     st.success("""
 Project Title : MovieMatrix
 
