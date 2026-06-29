@@ -346,12 +346,8 @@ elif selected == "Prediction":
             st.warning("Movie recommendation is not available because the prediction result is Disliked.")
         st.divider()
 
-        st.subheader("Model Information")
-        c1, c2, c3 = st.columns(3)
-        c1.metric("Training Records", len(x_train))
-        c2.metric("Testing Records", len(x_test))
-        c3.metric("Random Forest Trees", 100)
-       # st.success(f"Model Accuracy : {accuracy:.2%}")
+       
+        st.success(f"Model Accuracy : {accuracy:.2%}")
 
 elif selected == "About":
     st.title("About MovieMatrix")
