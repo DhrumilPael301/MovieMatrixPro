@@ -43,10 +43,10 @@ preferences, ratings, genres, and viewing behavior.
 
     col1, col2, col3, col4 = st.columns(4)
 
-    col1.metric("📂 Total Records", total_records)
-    col2.metric("🎬 Total Movies", total_movies)
-    col3.metric("🎭 Genres", total_genres)
-    col4.metric("⭐ Avg Rating", avg_rating)
+    col1.metric(" Total Records", total_records)
+    col2.metric(" Total Movies", total_movies)
+    col3.metric(" Genres", total_genres)
+    col4.metric(" Avg Rating", avg_rating)
 
     st.divider()
     st.header("Dashboard Overview")
