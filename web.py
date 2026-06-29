@@ -118,12 +118,10 @@ elif selected == "Dataset":
     total_movies = df["Movie_Title"].nunique()
     total_genres = df["Movie_Genre"].nunique()
 
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2 = st.columns(2)
 
     col1.metric("📄 Rows", total_rows)
     col2.metric("📑 Columns", total_columns)
-    col3.metric("🎬 Movies", total_movies)
-    col4.metric("🎭 Genres", total_genres)
     st.divider()
 
 #Dataset Preview
