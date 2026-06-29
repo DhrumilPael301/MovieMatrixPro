@@ -201,8 +201,8 @@ elif selected == "Prediction":
     )
     model.fit(x_train, y_train)
     pred = model.predict(x_test)
-    accuracy = accuracy_score(y_test, pred)
-    st.metric("Model Accuracy", f"{accuracy:.2%}")
+    #accuracy = accuracy_score(y_test, pred)
+    #st.metric("Model Accuracy", f"{accuracy:.2%}")
 
 
 #user input
@@ -322,32 +322,32 @@ elif selected == "Prediction":
 
         st.divider()
 
-        st.subheader("Recommendation")
-        if prediction[0] == 1:
-            recommend = df[
-                (df["Liked"] == 1) &
-                (df["Movie_Genre"] == le_genre.transform([movie_genre])[0])
-                ]
-            recommend = recommend.head(5)
-            if len(recommend) > 0:
-                result = pd.DataFrame({
+        # st.subheader("Recommendation")
+        # if prediction[0] == 1:
+        #     recommend = df[
+        #         (df["Liked"] == 1) &
+        #         (df["Movie_Genre"] == le_genre.transform([movie_genre])[0])
+        #         ]
+        #     recommend = recommend.head(5)
+        #     if len(recommend) > 0:
+        #         result = pd.DataFrame({
 
-                    "Recommended Movie":
-                        le_title.inverse_transform(recommend["Movie_Title"]),
-                    "Genre":
-                        le_genre.inverse_transform(recommend["Movie_Genre"]),
-                    "Rating":
-                        recommend["User_Rating"]
-                })
-                st.dataframe(result, use_container_width=True)
-            else:
-                st.info("No recommendation available.")
-        else:
-            st.warning("Movie recommendation is not available because the prediction result is Disliked.")
-        st.divider()
+        #             "Recommended Movie":
+        #                 le_title.inverse_transform(recommend["Movie_Title"]),
+        #             "Genre":
+        #                 le_genre.inverse_transform(recommend["Movie_Genre"]),
+        #             "Rating":
+        #                 recommend["User_Rating"]
+        #         })
+        #         st.dataframe(result, use_container_width=True)
+        #     else:
+        #         st.info("No recommendation available.")
+        # else:
+        #     st.warning("Movie recommendation is not available because the prediction result is Disliked.")
+        # st.divider()
 
        
-        st.success(f"Model Accuracy : {accuracy:.2%}")
+        #st.success(f"Model Accuracy : {accuracy:.2%}")
 
 elif selected == "About":
     st.title("About MovieMatrix")
