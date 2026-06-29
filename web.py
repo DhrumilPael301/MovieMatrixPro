@@ -73,6 +73,7 @@ preferences, ratings, genres, and viewing behavior.
             liked.values,
             labels=labels,
             autopct="%1.1f%%",
+            colors=["#FF3311","#610202"]
             startangle=90
         )
         ax.axis("equal")
