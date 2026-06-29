@@ -187,7 +187,7 @@ The project demonstrates how Machine Learning can improve personalized entertain
 
 ## 👨‍💻 Developer
 
-**Rudra Patel**
+Rishi Suthar & Dhrumil Patel
 
 Artificial Intelligence & Machine Learning Developer
 
