@@ -300,7 +300,7 @@ elif selected == "About":
     st.divider()
 
 #project description
-    st.header("Project Description")
+    st.header("🌐Project Description")
     st.write("""
 MovieMatrix Pro is an AI and Machine Learning based movie recommendation
 system that predicts whether a user is likely to enjoy a movie.
@@ -315,7 +315,7 @@ for intelligent movie recommendation.
     st.divider()
 
 #project objetive
-    st.header("Project Objective")
+    st.header("ℹ️Project Objective")
     st.write("""
 • Predict whether a user will like a movie.
 
@@ -344,7 +344,7 @@ for intelligent movie recommendation.
 #     st.divider()
 
 #ml
-    st.header("Machine Learning Algorithm")
+    st.header("🌐Machine Learning Algorithm")
     st.write("""
 Random Forest Classifier
 
