@@ -201,8 +201,8 @@ elif selected == "Prediction":
     )
     model.fit(x_train, y_train)
     pred = model.predict(x_test)
-    #accuracy = accuracy_score(y_test, pred)
-   # st.metric("Model Accuracy", f"{accuracy:.2%}")
+    accuracy = accuracy_score(y_test, pred)
+    st.metric("Model Accuracy", f"{accuracy:.2%}")
 
 
 #user input
