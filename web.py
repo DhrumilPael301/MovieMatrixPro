@@ -291,61 +291,6 @@ elif selected == "Prediction":
                 st.error("❌ User is unlikely to Like this Movie")
         st.divider()
 
-        # st.subheader("Movie Summary")
-        # summary = pd.DataFrame({
-        #     "Feature": [
-        #         "Movie Title",
-        #         "Movie Genre",
-        #         "Release Year",
-        #         "Duration",
-        #         "User Age",
-        #         "User Gender",
-        #         "Preferred Genre",
-        #         "Time Of Day",
-        #         "User Rating",
-        #         "Watched %"
-        #     ],
-        #     "Value": [
-        #         movie_title,
-        #         movie_genre,
-        #         release_year,
-        #         duration,
-        #         user_age,
-        #         gender,
-        #         preferred,
-        #         time,
-        #         rating,
-        #         watched
-        #     ]
-        # })
-        # st.dataframe(summary, use_container_width=True)
-
-        # st.divider()
-
-        # st.subheader("Recommendation")
-        # if prediction[0] == 1:
-        #     recommend = df[
-        #         (df["Liked"] == 1) &
-        #         (df["Movie_Genre"] == le_genre.transform([movie_genre])[0])
-        #         ]
-        #     recommend = recommend.head(5)
-        #     if len(recommend) > 0:
-        #         result = pd.DataFrame({
-
-        #             "Recommended Movie":
-        #                 le_title.inverse_transform(recommend["Movie_Title"]),
-        #             "Genre":
-        #                 le_genre.inverse_transform(recommend["Movie_Genre"]),
-        #             "Rating":
-        #                 recommend["User_Rating"]
-        #         })
-        #         st.dataframe(result, use_container_width=True)
-        #     else:
-        #         st.info("No recommendation available.")
-        # else:
-        #     st.warning("Movie recommendation is not available because the prediction result is Disliked.")
-        # st.divider()
-
        
         #st.success(f"Model Accuracy : {accuracy:.2%}")
 
@@ -384,19 +329,19 @@ for intelligent movie recommendation.
 """)
     st.divider()
 
-#dataset
-    st.header("Dataset Information")
-    col1, col2 = st.columns(2)
-    with col1:
-        st.metric("Total Records", len(df))
-        st.metric("Movies", df["Movie_Title"].nunique())
-        st.metric("Genres", df["Movie_Genre"].nunique())
-    with col2:
-        st.metric("Features", len(df.columns)-1)
-        st.metric("Target Variable", "Liked")
-        st.metric("ML Task", "Classification")
+# #dataset
+#     st.header("Dataset Information")
+#     col1, col2 = st.columns(2)
+#     with col1:
+#         st.metric("Total Records", len(df))
+#         st.metric("Movies", df["Movie_Title"].nunique())
+#         st.metric("Genres", df["Movie_Genre"].nunique())
+#     with col2:
+#         st.metric("Features", len(df.columns)-1)
+#         st.metric("Target Variable", "Liked")
+#         st.metric("ML Task", "Classification")
 
-    st.divider()
+#     st.divider()
 
 #ml
     st.header("Machine Learning Algorithm")
