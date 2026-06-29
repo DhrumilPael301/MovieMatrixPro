@@ -23,6 +23,31 @@ with st.sidebar:
                            default_index=0,
                            menu_icon="cast")
 if selected == "Home":
+    st.markdown("""
+    <div style="
+        background: linear-gradient(135deg,#0F172A,#1E40AF);
+        padding:40px;
+        border-radius:20px;
+        color:white;
+        text-align:center;
+        box-shadow:0px 5px 20px rgba(0,0,0,0.25);
+    ">
+
+    <h1 style="margin-bottom:8px;">📂 BuySense Dataset</h1>
+
+    <h3 style="margin-top:0;">
+    Machine Learning Training Dataset
+    </h3>
+
+    <p style="font-size:18px; line-height:1.6;">
+    Explore the dataset used to train the BuySense recommendation model.
+    This dataset contains user shopping behavior, browsing patterns,
+    purchase history, preferences, and the recommended product category
+    used for Machine Learning prediction.
+    </p>
+
+    </div>
+    """, unsafe_allow_html=True)
 
     st.title("MovieMatrix")
     st.subheader("Intelligent Film Matching System")
