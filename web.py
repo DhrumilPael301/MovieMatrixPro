@@ -369,7 +369,7 @@ Reasons for selecting Random Forest:
     st.divider()
 
 #technologies
-    st.header("Technologies Used")
+    st.header("*️⃣Technologies Used")
     st.write("""
     - Python – Programming Language
     - Streamlit – Web Application Framework
@@ -381,7 +381,7 @@ Reasons for selecting Random Forest:
     st.divider()
 
 #advantages
-    st.header("Advantages")
+    st.header("☑️Advantages")
     st.write("""
 • Predicts user movie preferences.
 
@@ -396,7 +396,7 @@ Reasons for selecting Random Forest:
     st.divider()
 
 #future scope
-    st.header("(┬┬﹏┬┬)Future Scope")
+    st.header("🎯Future Scope")
     st.write("""
 • Deep Learning based recommendation.
 
